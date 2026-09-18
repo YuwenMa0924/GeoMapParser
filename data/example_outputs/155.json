@@ -1,0 +1,14 @@
+{
+  "title": "EOLOGIC MAP OF\nTHE MTM -85280\nQUADRANGLE,\nPLANUM\nAUSTRALE\nREGION OF\nMARS\nBy\nKen Herkenhoff\n1998",
+  "scale": "1:500,000",
+  "scale_position": "bottom_center",
+  "bar_pixel_length": 2904,
+  "projection": "Polar Stereographic",
+  "publication_agency": [
+    "U.S. Geological Survey",
+    "National Aeronautics and Space Administration"
+  ],
+  "publication_date": "1998",
+  "data_source": "Viking Orbiter 2 images, Mariner 9 images",
+  "legend_data": []
+}

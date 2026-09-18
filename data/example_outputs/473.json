@@ -1,0 +1,136 @@
+{
+  "title": "GEOLOGIC MAP OF THE TYCHO QUADRANGLE OF\nTHE\nMOO\nBy\nH. A. Pohn\n1972",
+  "scale": "150 KILOMETERS",
+  "scale_position": "bottom_left",
+  "bar_pixel_length": 1227,
+  "projection": "LAMBERT CONFORMAL PROJECTION",
+  "publication_agency": [
+    "USGS",
+    "NASA",
+    "USAF AERONAUTICAL CHART AND INFORMATION CENTER"
+  ],
+  "publication_date": "1972",
+  "data_source": "Lunar Orbiter IV photographs, Surveyor VII mission report, Lunar Orbiter photographs IV H100, H107, H112, H119, H124; V M 125-128; V H125-128 (Langley Research Center, NASA); near-full-Moon plat S818 taken at U.S. Naval Observatory, Flagstaff, Arizona",
+  "legend_data": [
+    {
+      "value": "Ship material",
+      "key_type": "color",
+      "key_data": "#FFFF00"
+    },
+    {
+      "value": "Chore materials",
+      "key_type": "color",
+      "key_data": "#FFD700"
+    },
+    {
+      "value": "Ray material",
+      "key_type": "color",
+      "key_data": "#FFA500"
+    },
+    {
+      "value": "Core material",
+      "key_type": "color",
+      "key_data": "#FF6347"
+    },
+    {
+      "value": "Cloth material",
+      "key_type": "color",
+      "key_data": "#FF4500"
+    },
+    {
+      "value": "Hilu and horned material",
+      "key_type": "color",
+      "key_data": "#4B0082"
+    },
+    {
+      "value": "Shell (plastic) material",
+      "key_type": "color",
+      "key_data": "#8A2BE2"
+    },
+    {
+      "value": "Other materials",
+      "key_type": "color",
+      "key_data": "#ADD8E6"
+    },
+    {
+      "value": "Lower layers",
+      "key_type": "color",
+      "key_data": "#FFC0CB"
+    },
+    {
+      "value": "Upper layers",
+      "key_type": "color",
+      "key_data": "#87CEEB"
+    },
+    {
+      "value": "Materials of outer stations and chambers",
+      "key_type": "color",
+      "key_data": "#98FB98"
+    },
+    {
+      "value": "Order materials",
+      "key_type": "color",
+      "key_data": "#00CED1"
+    },
+    {
+      "value": "Closer materials",
+      "key_type": "color",
+      "key_data": "#FFA07A"
+    },
+    {
+      "value": "Closer closer",
+      "key_type": "color",
+      "key_data": "#F5DEB3"
+    },
+    {
+      "value": "Contact",
+      "key_type": "color",
+      "key_data": "#FF69B4"
+    },
+    {
+      "value": "Nature Design",
+      "key_type": "color",
+      "key_data": "#D2B48C"
+    },
+    {
+      "value": "Unusual",
+      "key_type": "color",
+      "key_data": "#90EE90"
+    },
+    {
+      "value": "Disappeared",
+      "key_type": "color",
+      "key_data": "#F5F5DC"
+    },
+    {
+      "value": "Lengths of Radius Vectors to control points",
+      "key_type": "icon",
+      "key_data": "circle_plus_triangle"
+    },
+    {
+      "value": "1738.2",
+      "key_type": "color",
+      "key_data": "#000000"
+    },
+    {
+      "value": "Depths of craters (rim to floor)",
+      "key_type": "icon",
+      "key_data": "downward_arrow"
+    },
+    {
+      "value": "(540)",
+      "key_type": "color",
+      "key_data": "#000000"
+    },
+    {
+      "value": "Relative elevations (referenced to surrounding terrain with direction and extent of measured slope indicated)",
+      "key_type": "icon",
+      "key_data": "upward_arrow"
+    },
+    {
+      "value": "466",
+      "key_type": "color",
+      "key_data": "#000000"
+    }
+  ]
+}

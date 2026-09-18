@@ -1,0 +1,135 @@
+{
+  "title": "GEOLOGIC MAP OF PART OF THE FRA MAURO REGION OF THE MOON APOLLO 14 PRE-MISSION MAP By T. W. Offield 1970",
+  "scale": "1:25 000",
+  "scale_position": "bottom_center",
+  "bar_pixel_length": 2113,
+  "projection": "MERCATOR PROJECTION",
+  "publication_agency": [
+    "U.S. Air Force",
+    "U.S. Army Topographic Command (TPC)",
+    "Department of Defense",
+    "National Aeronautics and Space Administration",
+    "U.S. Geological Survey",
+    "Manned Spacecraft Center",
+    "United States Geological Survey"
+  ],
+  "publication_date": "1970",
+  "data_source": "Lunar Orbiter high-resolution photographs III-H13. IV -H120; Lunar Orbiter moderate-resolution photographs III-M132-M134; Apollo 12 photograph telescopic photograph 1129 by Catalina Station, Lunar and Planetary Laboratory, University of Arizona; and full-Moon plate 5818 taken at U.S. Naval Observatory, Flagstaff, Arizona.",
+  "legend_data": [
+    {
+      "value": "Clay material",
+      "key_type": "color",
+      "key_data": "#FFD700"
+    },
+    {
+      "value": "Clay cluster material",
+      "key_type": "color",
+      "key_data": "#FFA500"
+    },
+    {
+      "value": "Clay cluster material",
+      "key_type": "color",
+      "key_data": "#FF8C00"
+    },
+    {
+      "value": "Clay cluster material",
+      "key_type": "color",
+      "key_data": "#FF6347"
+    },
+    {
+      "value": "Clay cluster material",
+      "key_type": "color",
+      "key_data": "#FF4500"
+    },
+    {
+      "value": "Clay cluster material",
+      "key_type": "color",
+      "key_data": "#FF1493"
+    },
+    {
+      "value": "Clay cluster material",
+      "key_type": "color",
+      "key_data": "#FF00FF"
+    },
+    {
+      "value": "Clay cluster material",
+      "key_type": "color",
+      "key_data": "#EE82EE"
+    },
+    {
+      "value": "Clay cluster material",
+      "key_type": "color",
+      "key_data": "#DDA0DD"
+    },
+    {
+      "value": "Clay cluster material",
+      "key_type": "color",
+      "key_data": "#C71585"
+    },
+    {
+      "value": "Clay cluster material",
+      "key_type": "color",
+      "key_data": "#B03060"
+    },
+    {
+      "value": "Clay cluster material",
+      "key_type": "color",
+      "key_data": "#9A3412"
+    },
+    {
+      "value": "Clay cluster material",
+      "key_type": "color",
+      "key_data": "#8B0000"
+    },
+    {
+      "value": "Clay cluster material",
+      "key_type": "color",
+      "key_data": "#7F0000"
+    },
+    {
+      "value": "Clay cluster material",
+      "key_type": "color",
+      "key_data": "#690000"
+    },
+    {
+      "value": "Clay cluster material",
+      "key_type": "color",
+      "key_data": "#5C0000"
+    },
+    {
+      "value": "Clay cluster material",
+      "key_type": "color",
+      "key_data": "#4E0000"
+    },
+    {
+      "value": "Clay cluster material",
+      "key_type": "color",
+      "key_data": "#410000"
+    },
+    {
+      "value": "Clay cluster material",
+      "key_type": "color",
+      "key_data": "#330000"
+    },
+    {
+      "value": "Clay cluster material",
+      "key_type": "color",
+      "key_data": "#260000"
+    },
+    {
+      "value": "Clay cluster material",
+      "key_type": "color",
+      "key_data": "#190000"
+    },
+    {
+      "value": "Clay cluster material",
+      "key_type": "color",
+      "key_data": "#0C0000"
+    },
+    {
+      "value": "Clay cluster material",
+      "key_type": "color",
+      "key_data": "#000000"
+    }
+  ]
+}

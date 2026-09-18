@@ -1,0 +1,40 @@
+{
+  "title": "EDITION 1 SHEET LTO101C1 (250 US A UNAR TOPOGRAPHIC ORTHOPHOTOMAP NEUJMIN 100",
+  "scale": "1:250,000",
+  "scale_position": "bottom_center",
+  "bar_pixel_length": 888,
+  "projection": "Transverse Mercator projection",
+  "publication_agency": [
+    "NASA",
+    "Defense Mapping Agency"
+  ],
+  "publication_date": "1973",
+  "data_source": "Apollo 15 photography",
+  "legend_data": [
+    {
+      "value": "Spot elevation",
+      "key_type": "color",
+      "key_data": "#FF0000"
+    },
+    {
+      "value": "Crater rim and bottom elevations",
+      "key_type": "color",
+      "key_data": "#FF0000"
+    },
+    {
+      "value": "Slope ticks (downhill direction)",
+      "key_type": "line",
+      "key_data": "oval"
+    },
+    {
+      "value": "Index contour",
+      "key_type": "line",
+      "key_data": "thick_red_line"
+    },
+    {
+      "value": "Intermediate contour",
+      "key_type": "line",
+      "key_data": "thin_brown_line"
+    }
+  ]
+}

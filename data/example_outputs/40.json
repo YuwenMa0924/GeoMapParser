@@ -1,0 +1,100 @@
+{
+  "title": "GEOLOGIC MAP OF THE ETANA\nREGION\n(Jg-1) OF\nGANYMEDE\nBy\nRoland J. Wagner, Ralf Jaumann, and Gerhard P. Neukum\n1995",
+  "scale": "1:5,000,000",
+  "scale_position": "bottom_left",
+  "bar_pixel_length": 2602,
+  "projection": "POLAR STEREOGRAPHIC PROJECTION",
+  "publication_agency": [
+    "U.S. Geological Survey",
+    "NASA"
+  ],
+  "publication_date": "1995",
+  "data_source": "U.S. Geological Survey Miscellaneous Investigations Map I-1966",
+  "legend_data": [
+    {
+      "value": "Palimpsest material—Forms bright circular patch in dark furrowed material. Interpretation: Remnant of old impact crater whose original morphology has been erased by viscous relaxation",
+      "key_type": "pattern",
+      "key_data": "p"
+    },
+    {
+      "value": "Contact—Dashed where approximately located. Includes domain boundaries within light, slightly grooved; light grooved; dark furrowed; and undivided dark materials",
+      "key_type": "line",
+      "key_data": "dashed_line"
+    },
+    {
+      "value": "Deep linear trough—Mostly in dark materials",
+      "key_type": "line",
+      "key_data": "solid_line"
+    },
+    {
+      "value": "Deep linear trough—Mostly in light materials; dashed where approximately located",
+      "key_type": "line",
+      "key_data": "crossed_line"
+    },
+    {
+      "value": "Vague linear trough—Mostly in light materials; dashed where approximately located",
+      "key_type": "line",
+      "key_data": "crossed_line_with_dots"
+    },
+    {
+      "value": "Trend of sharp grooves—Schematic",
+      "key_type": "line",
+      "key_data": "sharp_grooves"
+    },
+    {
+      "value": "Trend of subdued grooves—Schematic",
+      "key_type": "line",
+      "key_data": "subdued_grooves"
+    },
+    {
+      "value": "Furrow—Dashed where approximately located",
+      "key_type": "line",
+      "key_data": "furrow_line"
+    },
+    {
+      "value": "Lineament—Arrows indicate possible sense of strike-slip movement",
+      "key_type": "line",
+      "key_data": "lineament_arrows"
+    },
+    {
+      "value": "Irregular depression",
+      "key_type": "icon",
+      "key_data": "irregular_depression_icon"
+    },
+    {
+      "value": "Crater rim crest—Dashed where approximately located",
+      "key_type": "icon",
+      "key_data": "crater_rim_crest_icon"
+    },
+    {
+      "value": "Peak on crater floor",
+      "key_type": "icon",
+      "key_data": "peak_icon"
+    },
+    {
+      "value": "Pit on crater floor",
+      "key_type": "icon",
+      "key_data": "pit_icon"
+    },
+    {
+      "value": "Dome on crater floor",
+      "key_type": "icon",
+      "key_data": "dome_icon"
+    },
+    {
+      "value": "Circular scarp—Hachures point downslope",
+      "key_type": "icon",
+      "key_data": "circular_scarp_icon"
+    },
+    {
+      "value": "Bright ejecta rays",
+      "key_type": "pattern",
+      "key_data": "bright_ejecta_rays_pattern"
+    },
+    {
+      "value": "Secondary craters—Faint and irregular, around crater Kishar",
+      "key_type": "color",
+      "key_data": "#FF00FF"
+    }
+  ]
+}

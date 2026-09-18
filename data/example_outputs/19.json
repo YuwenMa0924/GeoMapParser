@@ -1,0 +1,115 @@
+{
+  "title": "ologic Map of the Snegurochka Planitia Quadrang(e (V-1) By Debra M. Hurwitz and James W. Head1 2012",
+  "scale": "1:5,000,000",
+  "scale_position": "bottom_left",
+  "bar_pixel_length": 2655,
+  "projection": "Polar Stereographic Projection",
+  "publication_agency": [
+    "U.S. Geological Survey",
+    "National Aeronautics and Space Administration"
+  ],
+  "publication_date": "2012",
+  "data_source": "Magellan data, Venera 15/16 data",
+  "legend_data": [
+    {
+      "value": "High: 6",
+      "key_type": "color",
+      "key_data": "#FF0000"
+    },
+    {
+      "value": "3000 m",
+      "key_type": "color",
+      "key_data": "#FF4500"
+    },
+    {
+      "value": "1500 m",
+      "key_type": "color",
+      "key_data": "#FFFF00"
+    },
+    {
+      "value": "PR: 0 m",
+      "key_type": "color",
+      "key_data": "#00FF00"
+    },
+    {
+      "value": "1500 m",
+      "key_type": "color",
+      "key_data": "#00BFFF"
+    },
+    {
+      "value": "Low:",
+      "key_type": "color",
+      "key_data": "#4B0082"
+    },
+    {
+      "value": "High: 1200 m",
+      "key_type": "color",
+      "key_data": "#FFD700"
+    },
+    {
+      "value": "900 m",
+      "key_type": "color",
+      "key_data": "#FFFF00"
+    },
+    {
+      "value": "400 m",
+      "key_type": "color",
+      "key_data": "#00FF00"
+    },
+    {
+      "value": "100 m",
+      "key_type": "color",
+      "key_data": "#0000FF"
+    },
+    {
+      "value": "Low: -350 m",
+      "key_type": "color",
+      "key_data": "#8A2BE2"
+    },
+    {
+      "value": "High: 400 m",
+      "key_type": "color",
+      "key_data": "#FFD700"
+    },
+    {
+      "value": "-300 m",
+      "key_type": "color",
+      "key_data": "#ADFF2F"
+    },
+    {
+      "value": "-650 m",
+      "key_type": "color",
+      "key_data": "#00FF00"
+    },
+    {
+      "value": "-1000 m",
+      "key_type": "color",
+      "key_data": "#00BFFF"
+    },
+    {
+      "value": "Low: -1400 m",
+      "key_type": "color",
+      "key_data": "#4B0082"
+    },
+    {
+      "value": "High: 670 m",
+      "key_type": "color",
+      "key_data": "#FF0000"
+    },
+    {
+      "value": "350 m",
+      "key_type": "color",
+      "key_data": "#FFFF00"
+    },
+    {
+      "value": "50 m",
+      "key_type": "color",
+      "key_data": "#00FF00"
+    },
+    {
+      "value": "Low: -20 m",
+      "key_type": "color",
+      "key_data": "#0000FF"
+    }
+  ]
+}

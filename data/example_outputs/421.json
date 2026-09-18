@@ -1,0 +1,40 @@
+{
+  "title": "9L NOICCUA OUOIH\nUNAR\nPHOTOGRAPHY\nINDEX\nMA\nSHEET 5 of 6\nHASSELBLAD\nPHOTOGRAPHS",
+  "scale": "1:5,500,000 at the equator",
+  "scale_position": null,
+  "bar_pixel_length": null,
+  "projection": "MERCATOR PROJECTION",
+  "publication_agency": [
+    "DEFENSE MAPPING AGENCY AEROSPACE CENTER",
+    "NATIONAL AERONAUTICS AND SPACE ADMINISTRATION"
+  ],
+  "publication_date": "1972",
+  "data_source": "Apollo 16 Tabular Index prepared by Mapping Sciences Branch, Science and Application Directorate, NASA Manned Spacecraft Center, Houston Texas77058.",
+  "legend_data": [
+    {
+      "value": "MAGAZINE NN FILM: SO-368 (COLOR)",
+      "key_type": "color",
+      "key_data": "#00FF00"
+    },
+    {
+      "value": "MAGAZINE OO FILM: Ia-O(UV)",
+      "key_type": "color",
+      "key_data": "#FF0000"
+    },
+    {
+      "value": "MAGAZINE PP FILM: SO-368 (COLOR)",
+      "key_type": "color",
+      "key_data": "#FF00FF"
+    },
+    {
+      "value": "MAGAZINE QQ FILM: SO-368 (COLOR)",
+      "key_type": "color",
+      "key_data": "#000000"
+    },
+    {
+      "value": "MAGAZINE RR FILM: SO-368 (COLOR)",
+      "key_type": "color",
+      "key_data": "#0000FF"
+    }
+  ]
+}

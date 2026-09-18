@@ -1,0 +1,14 @@
+{
+  "title": "SHADED RELIEF MAP OF THE LUNAR POLAR I\nREGIONS\n1981",
+  "scale": "1:5,000,000 (1mm= 5 km)",
+  "scale_position": "bottom_center",
+  "bar_pixel_length": 2294,
+  "projection": "Polar Stereographic Projection",
+  "publication_agency": [
+    "USGS",
+    "National Aeronautics and Space Administration"
+  ],
+  "publication_date": "1981",
+  "data_source": "The lunar surface features shown on this map are portrayed utilizing pictures taken primarily by the Lunar Orbiter IV spacecraft. Some data from Lunar Orbiter V, Apollo orbital flights, Mariner 10, and the USSR Zond missions are also used.",
+  "legend_data": []
+}

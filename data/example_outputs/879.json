@@ -1,0 +1,36 @@
+{
+  "title": "HYPATIA RLC 6 Mercator Projection Scale 1:1,000,000 at 11°45 RANGER VI) ZUNAR CHAK HYPATIA RLC 6 SCALE 1:1,000,000 BASE 1O0 BASE INFORMATION MARCH 1966 Lithographed by ACIC 6-66 RLC 6",
+  "scale": "1:1,000,000",
+  "scale_position": "bottom_center",
+  "bar_pixel_length": 3665,
+  "projection": "Mercator Projection",
+  "publication_agency": [
+    "NASA",
+    "AERONAUTICAL CHART AND INFORMATION CENTER",
+    "UNITED STATES AIR FORCE"
+  ],
+  "publication_date": "1966",
+  "data_source": "This chart was produced in consultation with Dr. Gerard P. Kuiper and the staff of the Lunar and Planetary laboratory, University of Arizona. ACIC production was supported by NASA Defense Purchase Request WO 5136. Photography and trajectory information was supplied by the Jet Propulsion Laboratory. Elevation data was compiled by the University of Manchester under Air Force Contract AF 61 (052)-829. This is one of a series of seven Ranger Vill charts compiled from television records of the six Ranger VIll cameras.",
+  "legend_data": [
+    {
+      "value": "relative elevations (Referenced to surrounding terrain)",
+      "key_type": "text",
+      "key_data": "relative elevations (Referenced to surrounding terrain)"
+    },
+    {
+      "value": "300",
+      "key_type": "number",
+      "key_data": "300"
+    },
+    {
+      "value": "Depth of crater (rim to floor)",
+      "key_type": "text",
+      "key_data": "400."
+    },
+    {
+      "value": "Relative elevations (Referenced to surrounding terrain)",
+      "key_type": "text",
+      "key_data": "300."
+    }
+  ]
+}

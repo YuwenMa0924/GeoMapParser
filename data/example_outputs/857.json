@@ -1,0 +1,101 @@
+{
+  "title": "GEOLOGIC MAP OF 7 THE MAESTLIN G REGION OF THE MOON LUNAR ORBITER SITE II P-13, OCEANUS PROCELLARUM INCLUDING APOLLO LANDING SITE 5 By M. H. Carr and S. R. Titley 1969",
+  "scale": "1:1,000,000",
+  "scale_position": "bottom_center",
+  "bar_pixel_length": 945,
+  "projection": "MERCATOR PROJECTION",
+  "publication_agency": [
+    "USGS",
+    "United States Geological Survey",
+    "National Aeronautics and Space Administration"
+  ],
+  "publication_date": "1969",
+  "data_source": "Lunar Orbiter modern resolution photographs: I1-M197-212; Ill-M161. Lunar Orbiter high resolution photograph: IV-H144; albedo data from Pohn and Wilde 1969) and from full-Moon plates 5818 and 5819 taken at U.S. Naval Observatory, Flagstaff, Ariz.",
+  "legend_data": [
+    {
+      "value": "Crater",
+      "key_type": "color",
+      "key_data": "#FF0000"
+    },
+    {
+      "value": "Crater material",
+      "key_type": "color",
+      "key_data": "#FF4500"
+    },
+    {
+      "value": "Crater-cluster material",
+      "key_type": "color",
+      "key_data": "#FFA500"
+    },
+    {
+      "value": "Exploratory ray material",
+      "key_type": "color",
+      "key_data": "#FFD700"
+    },
+    {
+      "value": "Crater-cluster material",
+      "key_type": "color",
+      "key_data": "#FFFF00"
+    },
+    {
+      "value": "Crater material",
+      "key_type": "color",
+      "key_data": "#ADFF2F"
+    },
+    {
+      "value": "Ring material",
+      "key_type": "color",
+      "key_data": "#00FF00"
+    },
+    {
+      "value": "Main ridge material",
+      "key_type": "color",
+      "key_data": "#32CD32"
+    },
+    {
+      "value": "Young mare material",
+      "key_type": "color",
+      "key_data": "#90EE90"
+    },
+    {
+      "value": "Smooth tens plains-forming material",
+      "key_type": "color",
+      "key_data": "#98FB98"
+    },
+    {
+      "value": "Old mare material",
+      "key_type": "color",
+      "key_data": "#9ACD32"
+    },
+    {
+      "value": "Channeled tens plains-forming material",
+      "key_type": "color",
+      "key_data": "#BDB76B"
+    },
+    {
+      "value": "Crater rim material",
+      "key_type": "color",
+      "key_data": "#F5DEB3"
+    },
+    {
+      "value": "Contact",
+      "key_type": "line",
+      "key_data": "dashed_line"
+    },
+    {
+      "value": "Discontinuous contact (Em)",
+      "key_type": "line",
+      "key_data": "dotted_line"
+    },
+    {
+      "value": "Ruptured contact",
+      "key_type": "line",
+      "key_data": "dash_dot_line"
+    },
+    {
+      "value": "Probable fault",
+      "key_type": "line",
+      "key_data": "solid_line"
+    }
+  ]
+}

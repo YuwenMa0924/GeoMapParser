@@ -1,0 +1,50 @@
+{
+  "title": "EDITION 2 SHEET LTO43D1 (250) LITTROW NAP JOPOGRAPHIC ORTHOPHOTOMA",
+  "scale": "1:250,000",
+  "scale_position": "bottom_center",
+  "bar_pixel_length": 870,
+  "projection": "Transverse Mercator projection",
+  "publication_agency": [
+    "NATIONAL AERONAUTICS AND SPACE ADMINISTRATION",
+    "DEFENSE MAPPING AGENCY TOPOGRAPHIC CENTER"
+  ],
+  "publication_date": "1974",
+  "data_source": "APOLLO 15 (AUG 71) PHOTOGRAPHY, APOLLO 17 (DEC 72) PHOTOGRAPHY",
+  "legend_data": [
+    {
+      "value": "Crater rim and interior elevations",
+      "key_type": "color",
+      "key_data": "black"
+    },
+    {
+      "value": "Spot elevation",
+      "key_type": "text",
+      "key_data": "8022 (7980) 8477"
+    },
+    {
+      "value": "Slope ticks (downhill direction)",
+      "key_type": "icon",
+      "key_data": "elliptical shape with a line indicating downhill direction"
+    },
+    {
+      "value": "Index contour",
+      "key_type": "line",
+      "key_data": "solid red line"
+    },
+    {
+      "value": "Intermediate contour",
+      "key_type": "line",
+      "key_data": "dashed red line"
+    },
+    {
+      "value": "Supplementary contour",
+      "key_type": "line",
+      "key_data": "dotted red line"
+    },
+    {
+      "value": "Escarpment abrupt slope; Relative height",
+      "key_type": "text",
+      "key_data": "35R"
+    }
+  ]
+}

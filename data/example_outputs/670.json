@@ -1,0 +1,40 @@
+{
+  "title": "UNAR TOPOGRAPHIC ORTHOPHOTOMAP\nEDITION\n1\nSHEET\nLTO61D3\n(250)\nMENZEL",
+  "scale": "1:250,000",
+  "scale_position": "bottom_center",
+  "bar_pixel_length": 874,
+  "projection": "TRANSVERSE MERCATOR PROJECTION",
+  "publication_agency": [
+    "NASA",
+    "DEFENSE MAPPING AGENCY"
+  ],
+  "publication_date": "1977",
+  "data_source": "APOLLO 15 (AUG 1971)",
+  "legend_data": [
+    {
+      "value": "Crater rim and interior elevation",
+      "key_type": "line",
+      "key_data": "solid_line"
+    },
+    {
+      "value": "Spot elevation",
+      "key_type": "icon",
+      "key_data": "number_8022"
+    },
+    {
+      "value": "Slope ticks (downhill direction)",
+      "key_type": "icon",
+      "key_data": "red_oval"
+    },
+    {
+      "value": "Index contour",
+      "key_type": "line",
+      "key_data": "thick_red_line"
+    },
+    {
+      "value": "Intermediate contour",
+      "key_type": "line",
+      "key_data": "thin_red_line"
+    }
+  ]
+}

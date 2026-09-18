@@ -1,0 +1,14 @@
+{
+  "title": "RADAR IMAGE AND SHADED RELIEF MAP OF 1 THE LAVINIA PLANITIA REGION OF VENUS V 10M 30/0 CMRN 1998",
+  "scale": "1:16,354,349 (1 mm = 16.35 km) AT 0° LATITUDE\n1:10,000,000 AT −52.305° LATITUDE",
+  "scale_position": "bottom_center",
+  "bar_pixel_length": 2807,
+  "projection": "Mercator projection",
+  "publication_agency": [
+    "NASA",
+    "U.S. Geological Survey"
+  ],
+  "publication_date": "1998",
+  "data_source": "Magellan Synthetic Aperture Radar (SAR) and radar altimetry instruments",
+  "legend_data": []
+}

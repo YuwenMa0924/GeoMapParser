@@ -1,0 +1,155 @@
+{
+  "title": "GEOLOGIC MAP OF THE PHILUS SULCUS QUADRANGLE OF GANYMED\nBy\nScott L. Murchie\nand James W. Head\n1989",
+  "scale": "1:5,000,000",
+  "scale_position": "middle_center",
+  "bar_pixel_length": 2691,
+  "projection": "LAMBERT CONFORMAL PROJECTION",
+  "publication_agency": [
+    "USGS",
+    "NASA"
+  ],
+  "publication_date": "1989",
+  "data_source": "ATLAS OF JOVIAN SATELLITES\n1:5,000,000 GEOLOGIC SERIES",
+  "legend_data": [
+    {
+      "value": "Smooth material",
+      "key_type": "color",
+      "key_data": "#8BC34A"
+    },
+    {
+      "value": "Grooved material",
+      "key_type": "color",
+      "key_data": "#80D8FF"
+    },
+    {
+      "value": "Mottled grooved material",
+      "key_type": "color",
+      "key_data": "#B0BEC5"
+    },
+    {
+      "value": "Grooved material",
+      "key_type": "color",
+      "key_data": "#C2185B"
+    },
+    {
+      "value": "Lineated material",
+      "key_type": "color",
+      "key_data": "#C2185B"
+    },
+    {
+      "value": "Furrowed material",
+      "key_type": "color",
+      "key_data": "#FFC107"
+    },
+    {
+      "value": "Material of bright craters",
+      "key_type": "color",
+      "key_data": "#C3"
+    },
+    {
+      "value": "Material of partly degraded craters",
+      "key_type": "color",
+      "key_data": "#C2"
+    },
+    {
+      "value": "Material of degraded craters",
+      "key_type": "color",
+      "key_data": "#C1"
+    },
+    {
+      "value": "Palimpsest materials",
+      "key_type": "color",
+      "key_data": "#P3"
+    },
+    {
+      "value": "Material of subdued palimpsests",
+      "key_type": "color",
+      "key_data": "#P2"
+    },
+    {
+      "value": "Contact",
+      "key_type": "pattern",
+      "key_data": "Dashed line with dots where buried"
+    },
+    {
+      "value": "Graben or grablen structure",
+      "key_type": "pattern",
+      "key_data": "Dotted line where buried"
+    },
+    {
+      "value": "Major furrow or dark-terrain trough",
+      "key_type": "line",
+      "key_data": "Thick solid line"
+    },
+    {
+      "value": "Throughgoing conspicuous groove",
+      "key_type": "line",
+      "key_data": "Thin solid line"
+    },
+    {
+      "value": "Trend of sharp groove set",
+      "key_type": "line",
+      "key_data": "Schematic dashed line"
+    },
+    {
+      "value": "Trend of subdued groove set",
+      "key_type": "line",
+      "key_data": "Schematic dotted line"
+    },
+    {
+      "value": "Albedo lineament or curvilineament",
+      "key_type": "line",
+      "key_data": "Dashed line"
+    },
+    {
+      "value": "Crater rim crest",
+      "key_type": "symbol",
+      "key_data": "Circle"
+    },
+    {
+      "value": "Subdued or buried crater rim crest",
+      "key_type": "symbol",
+      "key_data": "Open circle"
+    },
+    {
+      "value": "Central peak",
+      "key_type": "symbol",
+      "key_data": "Plus sign (+)"
+    },
+    {
+      "value": "Central pit",
+      "key_type": "symbol",
+      "key_data": "Triangle pointing down (Δ)"
+    },
+    {
+      "value": "Central dome",
+      "key_type": "symbol",
+      "key_data": "Diamond"
+    },
+    {
+      "value": "Basin ring",
+      "key_type": "line",
+      "key_data": "Dash-dot line"
+    },
+    {
+      "value": "Palimpsest ring",
+      "key_type": "line",
+      "key_data": "Dot-dash line"
+    },
+    {
+      "value": "Bright crater rays",
+      "key_type": "line",
+      "key_data": "Solid line with dots"
+    },
+    {
+      "value": "Dark crater rays",
+      "key_type": "line",
+      "key_data": "Solid line with dashes"
+    },
+    {
+      "value": "Secondary crater field",
+      "key_type": "pattern",
+      "key_data": "Small circles"
+    }
+  ]
+}

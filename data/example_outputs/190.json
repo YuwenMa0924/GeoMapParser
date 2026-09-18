@@ -1,0 +1,14 @@
+{
+  "title": "IN THE SOUTHEAST PART OF THE AMAZONIS MAP SHOWING LA VA FLOWS QUADRANGLE OF MARS By D.H. Scott and K.L. Tanaka 1981",
+  "scale": "1:2,000,000",
+  "scale_position": "middle_center",
+  "bar_pixel_length": 3514,
+  "projection": "Mercator projection",
+  "publication_agency": [
+    "USGS",
+    "National Aeronautics and Space Administration"
+  ],
+  "publication_date": "1981",
+  "data_source": "Controlled Viking photomosaics published as quarter quadrangles in the Atlas of Mars Topographic Series (U.S. Geological Survey, 1979) and tied to the Viking control net. Where these photomosaics were not available, larger scale catalog photomosaics tied to the Mariner 9 control net were used.",
+  "legend_data": []
+}

@@ -1,0 +1,144 @@
+{
+  "title": "GEOLOGIC MAP OF THE LAVINIA PLANITIA QUADRANGLE (V55), VENUS By Mikhail A. Ivanov and James W. Head, III 2001",
+  "scale": "1:5,000,000",
+  "scale_position": "middle_center",
+  "bar_pixel_length": null,
+  "projection": "LAMBERT PROJECTION",
+  "publication_agency": [
+    "USGS"
+  ],
+  "publication_date": "2001",
+  "data_source": "Magellan SAR and related data",
+  "legend_data": [
+    {
+      "value": "Lobate plains material",
+      "key_type": "color",
+      "key_data": "#87CEEB"
+    },
+    {
+      "value": "Smooth plains material",
+      "key_type": "color",
+      "key_data": "#D2B48C"
+    },
+    {
+      "value": "Wrinkled ridged plains material",
+      "key_type": "color",
+      "key_data": "#A9A9A9"
+    },
+    {
+      "value": "Upper unit",
+      "key_type": "color",
+      "key_data": "#F5F5DC"
+    },
+    {
+      "value": "Lower unit",
+      "key_type": "color",
+      "key_data": "#E6E6FA"
+    },
+    {
+      "value": "Shield plains material",
+      "key_type": "color",
+      "key_data": "#D3D3D3"
+    },
+    {
+      "value": "Ridged and grooved plains material",
+      "key_type": "color",
+      "key_data": "#808080"
+    },
+    {
+      "value": "Densely lined plains material",
+      "key_type": "color",
+      "key_data": "#BEBEBE"
+    },
+    {
+      "value": "Groove belt material",
+      "key_type": "color",
+      "key_data": "#8B4513"
+    },
+    {
+      "value": "Tessera material",
+      "key_type": "color",
+      "key_data": "#8B4513"
+    },
+    {
+      "value": "Undivided crater material",
+      "key_type": "color",
+      "key_data": "#FFD700"
+    },
+    {
+      "value": "Crater flow material",
+      "key_type": "color",
+      "key_data": "#FFFF00"
+    },
+    {
+      "value": "Contact—Dashed where approximately located",
+      "key_type": "line",
+      "key_data": "dashed_line"
+    },
+    {
+      "value": "Ridge",
+      "key_type": "icon",
+      "key_data": "black_diamond"
+    },
+    {
+      "value": "Wrinkle ridge",
+      "key_type": "icon",
+      "key_data": "white_diamond"
+    },
+    {
+      "value": "Furrow",
+      "key_type": "icon",
+      "key_data": "black_square"
+    },
+    {
+      "value": "Sharp groove",
+      "key_type": "line",
+      "key_data": "double_line"
+    },
+    {
+      "value": "Subdued groove",
+      "key_type": "line",
+      "key_data": "single_line_with_crosses"
+    },
+    {
+      "value": "Lava flow front—Arrow indicates flow direction",
+      "key_type": "line",
+      "key_data": "solid_line_with_arrow"
+    },
+    {
+      "value": "Lava channel",
+      "key_type": "line",
+      "key_data": "wavy_line"
+    },
+    {
+      "value": "Steep-sided dome",
+      "key_type": "icon",
+      "key_data": "circle_with_crosses"
+    },
+    {
+      "value": "Corona",
+      "key_type": "icon",
+      "key_data": "circle_with_inner_circle"
+    },
+    {
+      "value": "Rim of impact crater (>10 km diameter)",
+      "key_type": "icon",
+      "key_data": "circle_with_double_inner_circle"
+    },
+    {
+      "value": "Central peak of impact crater",
+      "key_type": "icon",
+      "key_data": "small_circle_with_crosses"
+    },
+    {
+      "value": "Rim of impact crater (<10 km diameter)",
+      "key_type": "icon",
+      "key_data": "small_circle"
+    },
+    {
+      "value": "Depression",
+      "key_type": "line",
+      "key_data": "oval_shape"
+    }
+  ]
+}

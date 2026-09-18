@@ -1,0 +1,15 @@
+{
+  "title": "RADAR IMAGE AND SHADED RELIEF MAP OF VENUS V 50M 0/0 CMRN 1997",
+  "scale": "1:50,000,000",
+  "scale_position": "bottom_center",
+  "bar_pixel_length": 2804,
+  "projection": "Mercator projection, polar stereographic projection",
+  "publication_agency": [
+    "USGS",
+    "NASA",
+    "Jet Propulsion Laboratory"
+  ],
+  "publication_date": "1997",
+  "data_source": "Magellan SAR datasets, Pioneer Venus Mission",
+  "legend_data": []
+}

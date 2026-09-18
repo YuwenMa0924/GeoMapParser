@@ -1,0 +1,41 @@
+{
+  "title": "UNAR TOPOGRAPHIC ORTHOPHOTOMAP EDITION 1 SHEET LTO79B2 (250) MESSIER",
+  "scale": "1:250,000",
+  "scale_position": "bottom_center",
+  "bar_pixel_length": 874,
+  "projection": "Transverse Mercator Projection",
+  "publication_agency": [
+    "NASA",
+    "Lunar Programs Office",
+    "Defense Mapping Agency Topographic Center"
+  ],
+  "publication_date": "1974",
+  "data_source": "Photography, Apollo 15 (August 1971)",
+  "legend_data": [
+    {
+      "value": "Crater rim and bottom elevations",
+      "key_type": "color",
+      "key_data": "#8022"
+    },
+    {
+      "value": "Spot elevation",
+      "key_type": "color",
+      "key_data": "#8477"
+    },
+    {
+      "value": "Slope ticks (downhill direction)",
+      "key_type": "icon",
+      "key_data": "black_triangle pointing downwards"
+    },
+    {
+      "value": "Index contour",
+      "key_type": "line",
+      "key_data": "solid red line"
+    },
+    {
+      "value": "Intermediate contour",
+      "key_type": "line",
+      "key_data": "dashed red line"
+    }
+  ]
+}

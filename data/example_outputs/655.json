@@ -1,0 +1,45 @@
+{
+  "title": "EDITION1 SHEET LTO60B4 (250) LUNAR TOPOGRAPHIC ORTHOPHOTOMA ROSS",
+  "scale": "1:250,000",
+  "scale_position": "bottom_center",
+  "bar_pixel_length": 876,
+  "projection": "TRANSVERSE MERCATOR PROJECTION",
+  "publication_agency": [
+    "NATIONAL AERONAUTICS AND SPACE ADMINISTRATION",
+    "DEFENSE MAPPING AGENCY HYDROGRAPHIC/TOPOGRAPHIC CENTER"
+  ],
+  "publication_date": "1979",
+  "data_source": "APOLLO 15 (AUG. 71)",
+  "legend_data": [
+    {
+      "value": "Index contour",
+      "key_type": "line",
+      "key_data": "solid_line"
+    },
+    {
+      "value": "Intermediate contour",
+      "key_type": "line",
+      "key_data": "dashed_line"
+    },
+    {
+      "value": "Spot elevation",
+      "key_type": "icon",
+      "key_data": "red_number"
+    },
+    {
+      "value": "Crater rim and interior elevations",
+      "key_type": "line",
+      "key_data": "solid_line"
+    },
+    {
+      "value": "Slope ticks (downhill direction)",
+      "key_type": "icon",
+      "key_data": "arrow"
+    },
+    {
+      "value": "Escarpment, abrupt slope",
+      "key_type": "line",
+      "key_data": "zigzag_line"
+    }
+  ]
+}

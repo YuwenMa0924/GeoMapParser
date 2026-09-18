@@ -1,0 +1,35 @@
+{
+  "title": "HOUTERMANS\nEDITION 1\nSHEET (TO",
+  "scale": "1:250,000",
+  "scale_position": "bottom_center",
+  "bar_pixel_length": 875,
+  "projection": "Transverse Mercator projection",
+  "publication_agency": [
+    "NATIONAL AERONAUTICS AND SPACE ADMINISTRATION",
+    "DEFENSE MAPPING AGENCY TOPOGRAPHIC CENTER"
+  ],
+  "publication_date": "1973",
+  "data_source": "APOLLO 15 (AUG 71)",
+  "legend_data": [
+    {
+      "value": "Spot elevation",
+      "key_type": "color",
+      "key_data": "#FF0000"
+    },
+    {
+      "value": "Slope ticks (downhill direction)",
+      "key_type": "icon",
+      "key_data": "oval_icon"
+    },
+    {
+      "value": "Index contour",
+      "key_type": "line",
+      "key_data": "solid_line"
+    },
+    {
+      "value": "Intermediate contour",
+      "key_type": "line",
+      "key_data": "dashed_line"
+    }
+  ]
+}

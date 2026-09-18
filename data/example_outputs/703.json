@@ -1,0 +1,35 @@
+{
+  "title": "JNAR TOPOGRAPHIC ORTHOPHOTOMAP\nEDITION7\nSHEET\nLTO64D1\n(250)",
+  "scale": "1:250,000",
+  "scale_position": "bottom_center",
+  "bar_pixel_length": 869,
+  "projection": "TRANSVERSE MERCATOR PROJECTION",
+  "publication_agency": [
+    "NATIONAL AERONAUTICS AND SPACE ADMINISTRATION",
+    "DEFENSE MAPPING AGENCY"
+  ],
+  "publication_date": "1974",
+  "data_source": "APOLLO 17 (DEC 72)",
+  "legend_data": [
+    {
+      "value": "Spot elevation",
+      "key_type": "color",
+      "key_data": "#FF0000"
+    },
+    {
+      "value": "Slope ticks (downhill direction)",
+      "key_type": "icon",
+      "key_data": "oval"
+    },
+    {
+      "value": "Index contour",
+      "key_type": "line",
+      "key_data": "thick red line"
+    },
+    {
+      "value": "Intermediate contour",
+      "key_type": "line",
+      "key_data": "thin red line"
+    }
+  ]
+}

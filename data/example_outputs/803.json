@@ -1,0 +1,35 @@
+{
+  "title": "EDITION SHEET LTO103A1 (250) GRAVE ED)T) UNAR TOPOGRAPHIC ORTHOPHOTOMA",
+  "scale": "1:250,000",
+  "scale_position": "bottom_center",
+  "bar_pixel_length": 888,
+  "projection": "Transverse Mercator projection",
+  "publication_agency": [
+    "NATIONAL AERONAUTICS AND SPACE ADMINISTRATION",
+    "DEFENSE MAPPING AGENCY"
+  ],
+  "publication_date": "1974",
+  "data_source": "APOLLO 15 (AUG 71), APOLLO 17 (DEC 72)",
+  "legend_data": [
+    {
+      "value": "Spot elevation",
+      "key_type": "color",
+      "key_data": "#FF0000"
+    },
+    {
+      "value": "Slope ticks (downhill direction)",
+      "key_type": "line",
+      "key_data": "dashed_line"
+    },
+    {
+      "value": "Index contour",
+      "key_type": "line",
+      "key_data": "thick_line"
+    },
+    {
+      "value": "Intermediate contour",
+      "key_type": "line",
+      "key_data": "thin_line"
+    }
+  ]
+}

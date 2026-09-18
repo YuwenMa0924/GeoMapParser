@@ -1,0 +1,275 @@
+{
+  "title": "eologic Map of the Taussig Quadrangle By Antony W. Brian1, 2, Ellen R. Stofan1, 2, and John E. Guest1 2005",
+  "scale": "1:5 198 991 (1 mm = 5.199 km) AT 0° LATITUDE\n1:4 711 886 AT -25° LATITUDE",
+  "scale_position": "middle_left",
+  "bar_pixel_length": null,
+  "projection": "MERCATOR PROJECTION",
+  "publication_agency": [
+    "USGS",
+    "NASA"
+  ],
+  "publication_date": "2005",
+  "data_source": "Prepared on behalf of the Planetary Geology and Geophysic Program, Solar System Exploration Division, Office of Space Science, National Aeronautics and Space Administration",
+  "legend_data": [
+    {
+      "value": "Sedimentary material",
+      "key_type": "color",
+      "key_data": "#FFFFFF"
+    },
+    {
+      "value": "Tuffaceous material",
+      "key_type": "color",
+      "key_data": "#E6E6FA"
+    },
+    {
+      "value": "Unconsolidated material",
+      "key_type": "color",
+      "key_data": "#D3D3D3"
+    },
+    {
+      "value": "Lobate material",
+      "key_type": "color",
+      "key_data": "#BEBEBE"
+    },
+    {
+      "value": "Fractured material",
+      "key_type": "color",
+      "key_data": "#A9A9A9"
+    },
+    {
+      "value": "Transitional material",
+      "key_type": "color",
+      "key_data": "#808080"
+    },
+    {
+      "value": "Shield material",
+      "key_type": "color",
+      "key_data": "#696969"
+    },
+    {
+      "value": "Hill material",
+      "key_type": "color",
+      "key_data": "#4D4D4D"
+    },
+    {
+      "value": "Dust-covered material",
+      "key_type": "color",
+      "key_data": "#2F2F2F"
+    },
+    {
+      "value": "Orographic Corona material",
+      "key_type": "color",
+      "key_data": "#FFD700"
+    },
+    {
+      "value": "Ivui Electric material",
+      "key_type": "color",
+      "key_data": "#FFFF00"
+    },
+    {
+      "value": "Niglo material",
+      "key_type": "color",
+      "key_data": "#FFA500"
+    },
+    {
+      "value": "Inda material",
+      "key_type": "color",
+      "key_data": "#FF8C00"
+    },
+    {
+      "value": "Paru Chafla flow material",
+      "key_type": "color",
+      "key_data": "#FF6347"
+    },
+    {
+      "value": "Mikhto Mox flow material",
+      "key_type": "color",
+      "key_data": "#FF4500"
+    },
+    {
+      "value": "Chortov Corona flow material, number 1",
+      "key_type": "color",
+      "key_data": "#FF1493"
+    },
+    {
+      "value": "Chortov Corona flow material, number 2",
+      "key_type": "color",
+      "key_data": "#FF00FF"
+    },
+    {
+      "value": "Chortov Corona flow material, number 3",
+      "key_type": "color",
+      "key_data": "#EE82EE"
+    },
+    {
+      "value": "Hilatur Corona flow material",
+      "key_type": "color",
+      "key_data": "#DDA0DD"
+    },
+    {
+      "value": "Aravera Corona flow material",
+      "key_type": "color",
+      "key_data": "#C71585"
+    },
+    {
+      "value": "Vibrania-Power Corona flow material",
+      "key_type": "color",
+      "key_data": "#B03060"
+    },
+    {
+      "value": "Janet Patra Corona flow material",
+      "key_type": "color",
+      "key_data": "#A52A2A"
+    },
+    {
+      "value": "Vibrania-Power Corona vulcanic material",
+      "key_type": "color",
+      "key_data": "#8B0000"
+    },
+    {
+      "value": "Ve-Vor Corona flow material",
+      "key_type": "color",
+      "key_data": "#800000"
+    },
+    {
+      "value": "Corona materials",
+      "key_type": "color",
+      "key_data": "#FFDAB9"
+    },
+    {
+      "value": "Collar material",
+      "key_type": "color",
+      "key_data": "#FFF0F5"
+    },
+    {
+      "value": "High crest",
+      "key_type": "icon",
+      "key_data": "black_triangle"
+    },
+    {
+      "value": "Wrinkle ridge",
+      "key_type": "line",
+      "key_data": "dashed_line"
+    },
+    {
+      "value": "Crater swipe",
+      "key_type": "icon",
+      "key_data": "black_circle"
+    },
+    {
+      "value": "Step-like relief",
+      "key_type": "icon",
+      "key_data": "black_square"
+    },
+    {
+      "value": "Impression",
+      "key_type": "icon",
+      "key_data": "black_arrow"
+    },
+    {
+      "value": "Crescent crater (diameter < 1 km)",
+      "key_type": "icon",
+      "key_data": "black_crescent"
+    },
+    {
+      "value": "Crater (diameter > 1 km)",
+      "key_type": "icon",
+      "key_data": "black_crater"
+    },
+    {
+      "value": "Volcanic",
+      "key_type": "icon",
+      "key_data": "red_volcano"
+    },
+    {
+      "value": "Caldera",
+      "key_type": "icon",
+      "key_data": "blue_caldera"
+    },
+    {
+      "value": "Cathars",
+      "key_type": "icon",
+      "key_data": "black_cathars"
+    },
+    {
+      "value": "Flow direction",
+      "key_type": "icon",
+      "key_data": "black_arrow_flow"
+    },
+    {
+      "value": "Surface, diffused material",
+      "key_type": "color",
+      "key_data": "#F5F5F5"
+    },
+    {
+      "value": "-3000",
+      "key_type": "color",
+      "key_data": "#FF69B4"
+    },
+    {
+      "value": "-1000",
+      "key_type": "color",
+      "key_data": "#A020F0"
+    },
+    {
+      "value": "0",
+      "key_type": "color",
+      "key_data": "#00FFFF"
+    },
+    {
+      "value": "1000",
+      "key_type": "color",
+      "key_data": "#FFFF00"
+    },
+    {
+      "value": "3000",
+      "key_type": "color",
+      "key_data": "#FFA500"
+    },
+    {
+      "value": "5000",
+      "key_type": "color",
+      "key_data": "#FF4500"
+    },
+    {
+      "value": "7000",
+      "key_type": "color",
+      "key_data": "#FF0000"
+    },
+    {
+      "value": "0.60 - 0.70",
+      "key_type": "color",
+      "key_data": "#4B0082"
+    },
+    {
+      "value": "0.70 - 0.75",
+      "key_type": "color",
+      "key_data": "#0000FF"
+    },
+    {
+      "value": "0.75 - 0.80",
+      "key_type": "color",
+      "key_data": "#00FF00"
+    },
+    {
+      "value": "0.80 - 0.85",
+      "key_type": "color",
+      "key_data": "#FFFF00"
+    },
+    {
+      "value": "0.85 - 0.90",
+      "key_type": "color",
+      "key_data": "#FFD700"
+    },
+    {
+      "value": "0.90 - 0.95",
+      "key_type": "color",
+      "key_data": "#FFA500"
+    },
+    {
+      "value": "0.95 - 0.99",
+      "key_type": "color",
+      "key_data": "#FF0000"
+    }
+  ]
+}

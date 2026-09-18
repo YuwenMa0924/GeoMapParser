@@ -1,0 +1,40 @@
+{
+  "title": "UNAR TOPOGRAPHIC ORTHOPHOTOMAF\nFIRMICUS\nEDITION\n1\nSHEET\nLTO62C1\n(250|",
+  "scale": "1:250,000",
+  "scale_position": "bottom_center",
+  "bar_pixel_length": 893,
+  "projection": "Transverse Mercator projection",
+  "publication_agency": [
+    "NASA",
+    "Defense Mapping Topographic Center"
+  ],
+  "publication_date": "1974",
+  "data_source": "Apollo 15 (August 1971)",
+  "legend_data": [
+    {
+      "value": "Crater rim and interior elevation",
+      "key_type": "color",
+      "key_data": "#000000"
+    },
+    {
+      "value": "Spot elevation",
+      "key_type": "color",
+      "key_data": "#000000"
+    },
+    {
+      "value": "Slope ticks (downhill direction)",
+      "key_type": "line",
+      "key_data": "dashed_line"
+    },
+    {
+      "value": "Index contour",
+      "key_type": "line",
+      "key_data": "solid_line"
+    },
+    {
+      "value": "Intermediate contour",
+      "key_type": "line",
+      "key_data": "dashed_line"
+    }
+  ]
+}

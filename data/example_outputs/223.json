@@ -1,0 +1,126 @@
+{
+  "title": "GEOLOGIC THE QUADRANGLE OF MAP OF RHEITA THE MOON By Desiree E. Stuart-Alexander 1971",
+  "scale": "1:1 000 000",
+  "scale_position": "bottom_center",
+  "bar_pixel_length": 2338,
+  "projection": "LAMBERT CONFORMAL PROJECTION",
+  "publication_agency": [
+    "USGS",
+    "NASA",
+    "USAF Aeronautical Chart and Information Center"
+  ],
+  "publication_date": "1971",
+  "data_source": "Lunar Orbiter photographs (Pohn and Offield, 1970)",
+  "legend_data": [
+    {
+      "value": "Continental System",
+      "key_type": "color",
+      "key_data": "#FFD700"
+    },
+    {
+      "value": "Cenozoic System",
+      "key_type": "color",
+      "key_data": "#FFFF00"
+    },
+    {
+      "value": "Mesozoic System",
+      "key_type": "color",
+      "key_data": "#ADFF2F"
+    },
+    {
+      "value": "Paleozoic System",
+      "key_type": "color",
+      "key_data": "#90EE90"
+    },
+    {
+      "value": "Precambrian System",
+      "key_type": "color",
+      "key_data": "#4CAF50"
+    },
+    {
+      "value": "Order material",
+      "key_type": "color",
+      "key_data": "#87CEEB"
+    },
+    {
+      "value": "Tectonic material",
+      "key_type": "color",
+      "key_data": "#ADD8E6"
+    },
+    {
+      "value": "Flame-forming material",
+      "key_type": "color",
+      "key_data": "#A020F0"
+    },
+    {
+      "value": "Other material",
+      "key_type": "color",
+      "key_data": "#8A2BE2"
+    },
+    {
+      "value": "Rolling terrain material",
+      "key_type": "color",
+      "key_data": "#FF69B4"
+    },
+    {
+      "value": "Piling terrain material",
+      "key_type": "color",
+      "key_data": "#FF1493"
+    },
+    {
+      "value": "Slope terrain (low)",
+      "key_type": "color",
+      "key_data": "#FF6347"
+    },
+    {
+      "value": "Slope terrain (high)",
+      "key_type": "color",
+      "key_data": "#FF4500"
+    },
+    {
+      "value": "Close enough field",
+      "key_type": "color",
+      "key_data": "#FFA07A"
+    },
+    {
+      "value": "Crater material",
+      "key_type": "color",
+      "key_data": "#E9967A"
+    },
+    {
+      "value": "Contact",
+      "key_type": "line",
+      "key_data": "solid_line"
+    },
+    {
+      "value": "Disputed border",
+      "key_type": "line",
+      "key_data": "dashed_line"
+    },
+    {
+      "value": "Unrecognized border",
+      "key_type": "line",
+      "key_data": "dot_line"
+    },
+    {
+      "value": "Lamellae block",
+      "key_type": "icon",
+      "key_data": "black_triangle"
+    },
+    {
+      "value": "Lengths of Radius Vectors to control points",
+      "key_type": "numeric",
+      "key_data": "1741.9"
+    },
+    {
+      "value": "Depths of craters (rim to floor)",
+      "key_type": "numeric",
+      "key_data": "400"
+    },
+    {
+      "value": "Relative Elevations (referenced to surrounding terrain) with direction and extent of measured slope indicated",
+      "key_type": "numeric",
+      "key_data": "300"
+    }
+  ]
+}

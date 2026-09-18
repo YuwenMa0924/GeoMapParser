@@ -1,0 +1,77 @@
+{
+  "title": "KAPTA NOSKPHBIX O5NACTEM WICOMETPW4ECKAN SYHE HYPSOMETRIC MAP OF LUNAR POLAR AREAS YOJ MEAAIN 2015-2016 KAPT 7 KAPTbI Mbl nOEX",
+  "scale": "比例尺存在，但未检测到具体数值",
+  "scale_position": "bottom_right",
+  "bar_pixel_length": 1097,
+  "projection": null,
+  "publication_agency": [],
+  "publication_date": "2015",
+  "data_source": "Lunar Orbiter Data Explorer (http://ode.rsl.wustl.edu/moon). Archive provides data from the Lunar Reconnaissance Orbiter, in particular results of processing by the Lunar Multi-Image Processing System (LMP) SLDEM2013 (Haruyama et al., 2014), as well as data from the SELENE (Kaguya) terrain camera.",
+  "legend_data": [
+    {
+      "value": "Отметки высот, м",
+      "key_type": "text",
+      "key_data": "Points of heights, m"
+    },
+    {
+      "value": "Кратеры",
+      "key_type": "icon",
+      "key_data": "craters_icon"
+    },
+    {
+      "value": "Горизонтали проведены через 0.5 км",
+      "key_type": "line",
+      "key_data": "solid_line_0.5_km"
+    },
+    {
+      "value": "Постоянно затенённые области",
+      "key_type": "pattern",
+      "key_data": "permanently_shadowed_areas_pattern"
+    },
+    {
+      "value": "Место падения разгонного блока «Центавр»",
+      "key_type": "icon",
+      "key_data": "centaur_booster_impact_site_icon"
+    },
+    {
+      "value": "Эллиpsy прицеливания",
+      "key_type": "icon",
+      "key_data": "target_ellipses_icon"
+    },
+    {
+      "value": "Потенциальные посадочные площадки",
+      "key_type": "icon",
+      "key_data": "potential_landing_sites_icon"
+    },
+    {
+      "value": "Шкала высот и глубин, км",
+      "key_type": "color",
+      "key_data": "height_and_depth_scale"
+    },
+    {
+      "value": "менее 7",
+      "key_type": "color",
+      "key_data": "#006400"
+    },
+    {
+      "value": "7 - 10",
+      "key_type": "color",
+      "key_data": "#32CD32"
+    },
+    {
+      "value": "10 - 15",
+      "key_type": "color",
+      "key_data": "#FFFF00"
+    },
+    {
+      "value": "15 - 20",
+      "key_type": "color",
+      "key_data": "#FFA500"
+    },
+    {
+      "value": "более 20",
+      "key_type": "color",
+      "key_data": "#FF0000"
+    }
+  ]
+}

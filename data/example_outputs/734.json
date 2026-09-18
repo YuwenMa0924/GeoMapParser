@@ -1,0 +1,35 @@
+{
+  "title": "LUNAR TOPOGRAPHIC ORTHOPHOTOMA",
+  "scale": "1:250,000",
+  "scale_position": "bottom_center",
+  "bar_pixel_length": 881,
+  "projection": "Transverse Mercator projection",
+  "publication_agency": [
+    "NASA",
+    "Defense Mapping Agency Topographic Center"
+  ],
+  "publication_date": "1974",
+  "data_source": "Apollo 16 (Mar 72), Apollo 15 mission ephemeris dated December 1971",
+  "legend_data": [
+    {
+      "value": "Spot elevation",
+      "key_type": "color",
+      "key_data": "#000000"
+    },
+    {
+      "value": "Slope ticks (downhill direction)",
+      "key_type": "icon",
+      "key_data": "black_oval"
+    },
+    {
+      "value": "Index contour",
+      "key_type": "line",
+      "key_data": "thick_red_line"
+    },
+    {
+      "value": "Intermediate contour",
+      "key_type": "line",
+      "key_data": "thin_red_line"
+    }
+  ]
+}

@@ -1,0 +1,194 @@
+{
+  "title": "GEOLOGIC MAP OF THE TIAMAT SULCUS QUADRANGLE (Jg-9) OF GANYMED\nBy\nS.K. Croft, Ruggero Casacchia and R.G. Strom\n1994",
+  "scale": "1:5000 000 (1 mm = 5 km)",
+  "scale_position": "middle_center",
+  "bar_pixel_length": 2722,
+  "projection": "Mercator projection",
+  "publication_agency": [
+    "USGS"
+  ],
+  "publication_date": "1994",
+  "data_source": "U.S. Geological Survey Miscellaneous Investigations Series Map I-1934, scale 1:5,000,000",
+  "legend_data": [
+    {
+      "value": "Grooved material",
+      "key_type": "color",
+      "key_data": "#007ACC"
+    },
+    {
+      "value": "Smooth material",
+      "key_type": "color",
+      "key_data": "#4CAF50"
+    },
+    {
+      "value": "Light material, undivided",
+      "key_type": "color",
+      "key_data": "#87CEFA"
+    },
+    {
+      "value": "Dark cratered material",
+      "key_type": "color",
+      "key_data": "#8B4513"
+    },
+    {
+      "value": "Moderately bright cratered material",
+      "key_type": "color",
+      "key_data": "#FFA07A"
+    },
+    {
+      "value": "Very dark cratered material",
+      "key_type": "color",
+      "key_data": "#8B4513"
+    },
+    {
+      "value": "Furrowed material",
+      "key_type": "color",
+      "key_data": "#D2B48C"
+    },
+    {
+      "value": "Lineated material",
+      "key_type": "color",
+      "key_data": "#A0522D"
+    },
+    {
+      "value": "Dark material, undivided",
+      "key_type": "color",
+      "key_data": "#D2B48C"
+    },
+    {
+      "value": "Smooth material at center of Omobus Facula",
+      "key_type": "color",
+      "key_data": "#FFA500"
+    },
+    {
+      "value": "Rayed crater material",
+      "key_type": "color",
+      "key_data": "#FFD700"
+    },
+    {
+      "value": "Partly degraded crater material",
+      "key_type": "color",
+      "key_data": "#FFA500"
+    },
+    {
+      "value": "Degraded crater material",
+      "key_type": "color",
+      "key_data": "#FFA500"
+    },
+    {
+      "value": "Palimpsest material",
+      "key_type": "color",
+      "key_data": "#C0C0C0"
+    },
+    {
+      "value": "Palimpsest smooth material",
+      "key_type": "color",
+      "key_data": "#C0C0C0"
+    },
+    {
+      "value": "Contact—Dashed where approximately located, dotted where buried. Includes boundaries between domains in light materials",
+      "key_type": "line",
+      "key_data": "dashed_line"
+    },
+    {
+      "value": "Conspicuous quasi-linear trough in dark materials",
+      "key_type": "line",
+      "key_data": "solid_line_with_dots"
+    },
+    {
+      "value": "Subdued, meandering trough in dark materials",
+      "key_type": "line",
+      "key_data": "meandering_line"
+    },
+    {
+      "value": "Groovelike depression in dark materials",
+      "key_type": "line",
+      "key_data": "groove_line"
+    },
+    {
+      "value": "Sharp groove trend—Schematic",
+      "key_type": "line",
+      "key_data": "sharp_groove_line"
+    },
+    {
+      "value": "Subdued groove trend—Schematic",
+      "key_type": "line",
+      "key_data": "subdued_groove_line"
+    },
+    {
+      "value": "Conspicuous throughgoing groove or groove bounding domain",
+      "key_type": "line",
+      "key_data": "throughgoing_groove_line"
+    },
+    {
+      "value": "Furrow—Only representative number mapped",
+      "key_type": "line",
+      "key_data": "furrow_line"
+    },
+    {
+      "value": "Conspicuous light-floored groove—Interpreted as graben",
+      "key_type": "line",
+      "key_data": "light_floored_groove_line"
+    },
+    {
+      "value": "Conspicuous dark-floored groove—Interpreted as graben",
+      "key_type": "line",
+      "key_data": "dark_floored_groove_line"
+    },
+    {
+      "value": "String faculae—Chain of bright spots",
+      "key_type": "icon",
+      "key_data": "bright_spots_chain"
+    },
+    {
+      "value": "Crater rim crest",
+      "key_type": "icon",
+      "key_data": "crater_rim_crest"
+    },
+    {
+      "value": "Highly subdued or buried crater rim crest",
+      "key_type": "icon",
+      "key_data": "subdued_crater_rim_crest"
+    },
+    {
+      "value": "Inward-facing scarp on crater floor",
+      "key_type": "icon",
+      "key_data": "inward_facing_scarp"
+    },
+    {
+      "value": "Pit on crater floor—Circle outlines depression",
+      "key_type": "icon",
+      "key_data": "pit_circle"
+    },
+    {
+      "value": "Dome on crater floor",
+      "key_type": "icon",
+      "key_data": "crater_floor_dome"
+    },
+    {
+      "value": "Basin ring",
+      "key_type": "icon",
+      "key_data": "basin_ring"
+    },
+    {
+      "value": "Palimpsest ring",
+      "key_type": "icon",
+      "key_data": "palimpsest_ring"
+    },
+    {
+      "value": "Light ejecta",
+      "key_type": "pattern",
+      "key_data": "light_ejecta_pattern"
+    },
+    {
+      "value": "Dark ejecta",
+      "key_type": "pattern",
+      "key_data": "dark_ejecta_pattern"
+    },
+    {
+      "value": "Dark mantling material or ejecta",
+      "key_type": "pattern",
+      "key_data": "dark_mantling_material_pattern"
+    }
+  ]
+}

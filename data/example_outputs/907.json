@@ -1,0 +1,14 @@
+{
+  "title": "Contour\nMap of the\nopographic\nMoon's\nSouth\nPole\nRid\nPolarstereographic Projection\nContours: 100 m",
+  "scale": null,
+  "scale_position": null,
+  "bar_pixel_length": null,
+  "projection": "Polarstereographic Projection",
+  "publication_agency": [
+    "NASA",
+    "Center for Lunar Science and Exploratior\nunar and Planetary Institute"
+  ],
+  "publication_date": null,
+  "data_source": "Lunar Reconnaissance Orbiter Lunar Orbiter Laser Altimeter (LOL)\nS-m elevation product [NASA Goddard Space Flight Center] over\nderived hillshade with solar azimuth 45°W and solar elevation 45°.",
+  "legend_data": []
+}
