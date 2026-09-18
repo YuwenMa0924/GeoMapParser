@@ -1,0 +1,116 @@
+{
+  "title": "Planitia Region of Mars Geologic Map of Tooting Crater, Amazonis By Peter J. Mouginis-Mark 2015",
+  "scale": "1:200,000",
+  "scale_position": "bottom_center",
+  "bar_pixel_length": 2485,
+  "projection": "Transverse Mercator Projection",
+  "publication_agency": [
+    "USGS",
+    "National Aeronautics and Space Administration",
+    "U.S. Department of the Interior"
+  ],
+  "publication_date": "2015",
+  "data_source": "Thermal Emission imaging System visible (7HEMis viS) camera images (~T8 m, except where pattern shows no THEMIS VIS coverage. Data gaps are filled by THEMIS daytime infrared images (100 m/pixel)",
+  "legend_data": [
+    {
+      "value": "Ejecta blanket material",
+      "key_type": "color",
+      "key_data": "#D2B48C"
+    },
+    {
+      "value": "Ejecta layer 4 material",
+      "key_type": "color",
+      "key_data": "#F5F5DC"
+    },
+    {
+      "value": "Ejecta layer 3 material",
+      "key_type": "color",
+      "key_data": "#FFF0F5"
+    },
+    {
+      "value": "Ejecta layer 2 material",
+      "key_type": "color",
+      "key_data": "#FFFAFA"
+    },
+    {
+      "value": "Ejecta layer 1 material",
+      "key_type": "color",
+      "key_data": "#FFE4E1"
+    },
+    {
+      "value": "Distal rampart material",
+      "key_type": "color",
+      "key_data": "#FFA07A"
+    },
+    {
+      "value": "Smooth rim material",
+      "key_type": "color",
+      "key_data": "#F5DEB3"
+    },
+    {
+      "value": "Hummocky rim material",
+      "key_type": "color",
+      "key_data": "#E9967A"
+    },
+    {
+      "value": "Rim material",
+      "key_type": "color",
+      "key_data": "#CD5C5C"
+    },
+    {
+      "value": "Talus material",
+      "key_type": "color",
+      "key_data": "#D2691E"
+    },
+    {
+      "value": "Smooth wall material",
+      "key_type": "color",
+      "key_data": "#F4A460"
+    },
+    {
+      "value": "Smooth terrace material",
+      "key_type": "color",
+      "key_data": "#F0E68C"
+    },
+    {
+      "value": "Smooth floor material",
+      "key_type": "color",
+      "key_data": "#FFFFE0"
+    },
+    {
+      "value": "Pitted material",
+      "key_type": "color",
+      "key_data": "#F0FFF0"
+    },
+    {
+      "value": "Wall block material",
+      "key_type": "color",
+      "key_data": "#F5F5DC"
+    },
+    {
+      "value": "Central peak mound material",
+      "key_type": "color",
+      "key_data": "#FFF0F5"
+    },
+    {
+      "value": "Central mountain peak material",
+      "key_type": "color",
+      "key_data": "#FFFAFA"
+    },
+    {
+      "value": "Fluvial channel material",
+      "key_type": "color",
+      "key_data": "#FFE4E1"
+    },
+    {
+      "value": "Steep pit material",
+      "key_type": "color",
+      "key_data": "#FFA07A"
+    },
+    {
+      "value": "Amazonian lava flow material",
+      "key_type": "color",
+      "key_data": "#F5DEB3"
+    }
+  ]
+}
