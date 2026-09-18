@@ -1,0 +1,45 @@
+{
+  "title": "EDITION\n2\nSHEET\nLTO42C3\n(250)\nLUNAR TOPOGRAPHIC ORTHOPHOTOMAP\nDAWES",
+  "scale": "1:250,000",
+  "scale_position": "bottom_center",
+  "bar_pixel_length": 874,
+  "projection": "TRANSVERSE MERCATOR PROJECTION",
+  "publication_agency": [
+    "DEFENSE MAPPING AGE",
+    "TOPOGRAPHIC CENTER"
+  ],
+  "publication_date": "1975",
+  "data_source": "APOLLO 15 (AUG 71) PHOTOGRAPH\nAPOLLO 17 (DEC 72) PHOTOGRAPH",
+  "legend_data": [
+    {
+      "value": "Crater rim and interior elevation",
+      "key_type": "color",
+      "key_data": "#8022"
+    },
+    {
+      "value": "Spot elevation",
+      "key_type": "icon",
+      "key_data": "black_oval"
+    },
+    {
+      "value": "Slope ticks (downhill direction)",
+      "key_type": "line",
+      "key_data": "dashed_line"
+    },
+    {
+      "value": "Index contour",
+      "key_type": "line",
+      "key_data": "solid_line"
+    },
+    {
+      "value": "Intermediate contour",
+      "key_type": "line",
+      "key_data": "dashed_line"
+    },
+    {
+      "value": "Escarpment, abrupt slope",
+      "key_type": "line",
+      "key_data": "zigzag_line"
+    }
+  ]
+}

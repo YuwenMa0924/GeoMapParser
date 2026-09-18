@@ -1,0 +1,144 @@
+{
+  "title": "Gealagic\n(Map\noflo\nBy\navid A. Williams,1 Laszlo P. Keszthelyi,2 David A. Crown,3 Jessica A. Yff,2 Windy L. Jaeger,2 Paul M. Schenk,4 Paul E. Geissler,2 and Tammy L. Becke—\n2011",
+  "scale": "1:15,000,000",
+  "scale_position": "middle_left",
+  "bar_pixel_length": 3213,
+  "projection": "MERCATOR PROJECTION",
+  "publication_agency": [
+    "USGS"
+  ],
+  "publication_date": "2011",
+  "data_source": "Galileo SSI color mosaic (756nm-GRN-VIO) and monochrome mosaic",
+  "legend_data": [
+    {
+      "value": "Dark patina",
+      "key_type": "color",
+      "key_data": "#1A1A1A"
+    },
+    {
+      "value": "Red arrows - patina",
+      "key_type": "color",
+      "key_data": "#8B0000"
+    },
+    {
+      "value": "Bright patina",
+      "key_type": "color",
+      "key_data": "#FFFFFF"
+    },
+    {
+      "value": "Layered patina",
+      "key_type": "color",
+      "key_data": "#8B4513"
+    },
+    {
+      "value": "Dark diffused patina",
+      "key_type": "color",
+      "key_data": "#000000"
+    },
+    {
+      "value": "Red diffused patina",
+      "key_type": "color",
+      "key_data": "#FF0000"
+    },
+    {
+      "value": "Green diffused patina",
+      "key_type": "color",
+      "key_data": "#006400"
+    },
+    {
+      "value": "Dark flow unit",
+      "key_type": "color",
+      "key_data": "#000000"
+    },
+    {
+      "value": "Red diffused flow unit",
+      "key_type": "color",
+      "key_data": "#FF0000"
+    },
+    {
+      "value": "Green diffused flow unit",
+      "key_type": "color",
+      "key_data": "#006400"
+    },
+    {
+      "value": "Bright light flow unit",
+      "key_type": "color",
+      "key_data": "#FFFF00"
+    },
+    {
+      "value": "Dark light flow unit",
+      "key_type": "color",
+      "key_data": "#000000"
+    },
+    {
+      "value": "Undiffused light flow unit",
+      "key_type": "color",
+      "key_data": "#FFFFFF"
+    },
+    {
+      "value": "Small patina for flow",
+      "key_type": "icon",
+      "key_data": "black_triangle"
+    },
+    {
+      "value": "Bright",
+      "key_type": "color",
+      "key_data": "#FFFF00"
+    },
+    {
+      "value": "Undiffused",
+      "key_type": "color",
+      "key_data": "#FFFFFF"
+    },
+    {
+      "value": "Hotspot location",
+      "key_type": "icon",
+      "key_data": "yellow_circle"
+    },
+    {
+      "value": "Mountain location",
+      "key_type": "icon",
+      "key_data": "blue_square"
+    },
+    {
+      "value": "Plume point source",
+      "key_type": "icon",
+      "key_data": "white_circle"
+    },
+    {
+      "value": "Small closed depression",
+      "key_type": "icon",
+      "key_data": "black_diamond"
+    },
+    {
+      "value": "Volcanic vent",
+      "key_type": "icon",
+      "key_data": "red_circle"
+    },
+    {
+      "value": "Closed topographic high",
+      "key_type": "icon",
+      "key_data": "black_star"
+    },
+    {
+      "value": "Growth or burial",
+      "key_type": "icon",
+      "key_data": "green_arrow"
+    },
+    {
+      "value": "Pit or closed depression",
+      "key_type": "icon",
+      "key_data": "black_triangle_down"
+    },
+    {
+      "value": "Ridge",
+      "key_type": "icon",
+      "key_data": "black_line"
+    },
+    {
+      "value": "Scarp",
+      "key_type": "icon",
+      "key_data": "black_dashed_line"
+    }
+  ]
+}

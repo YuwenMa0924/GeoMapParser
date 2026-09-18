@@ -1,0 +1,15 @@
+{
+  "title": "PTOLEMAEUS\nLAC\n77\nMercator Projection\nScale 1:1,000,000 at 11°00'45\"\n1ST EDITION MAY 1963\nPTOLEMAEUS\nLAC\n77\nSCALE 1:1,000,000\n1ST EDITION MAY 1963\nBASE 101\nBASE INFORMATION MAY 1963\nLithographed by ACIC 6-65\nLAC 77\nLUNAR CHART",
+  "scale": "1:1,000,000",
+  "scale_position": "bottom_center",
+  "bar_pixel_length": 3707,
+  "projection": "Mercator Projection",
+  "publication_agency": [
+    "UNITED STATES AIR FORCE",
+    "NATIONAL AERONAUTICS AND SPACE ADMINISTRATION",
+    "AERONAUTICAL CHART AND INFORMATION CENTER"
+  ],
+  "publication_date": "1963",
+  "data_source": "Photographic Lunar Atlas, Edited by Dr. Gerard P. Kuiper, 1960; USAF Lunar Atlas, 1960 Edition; Lunar and Planetary Laboratory, University of Arizona; Department of Astronomy, University of Manchester; Lowell refracting telescope, Flagstaff Arizona",
+  "legend_data": []
+}

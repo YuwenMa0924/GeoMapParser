@@ -1,0 +1,77 @@
+{
+  "title": "GEOLOGIC MAP OF THE WILHELM QUADRANGLE OF THE MOON By R. S. Saunders and Don E. Wilhelms 1974",
+  "scale": "1:1 000000",
+  "scale_position": "middle_left",
+  "bar_pixel_length": 1179,
+  "projection": "LAMBERT CONFORMAL PROJECTION",
+  "publication_agency": [
+    "USGS",
+    "UNITED STATES GEOLOGICAL SURVEY",
+    "NATIONAL AERONAUTICS AND SPACE ADMINISTRATION",
+    "USAF AERONAUTICAL CHART AND INFORMATION CENTER"
+  ],
+  "publication_date": "1974",
+  "data_source": "Lunar Orbiter IV and V photographs, Lunar Orbiter IV moderate-resolution photographs, telescopic photographs from Consolidated Luna Atlas, Albedo data, Infrared data, Radar data",
+  "legend_data": [
+    {
+      "value": "城市",
+      "key_type": "color",
+      "key_data": "#FFFF00"
+    },
+    {
+      "value": "城镇",
+      "key_type": "color",
+      "key_data": "#FFA500"
+    },
+    {
+      "value": "村庄",
+      "key_type": "color",
+      "key_data": "#00FF00"
+    },
+    {
+      "value": "河流",
+      "key_type": "color",
+      "key_data": "#00BFFF"
+    },
+    {
+      "value": "湖泊",
+      "key_type": "color",
+      "key_data": "#8A2BE2"
+    },
+    {
+      "value": "沼泽",
+      "key_type": "color",
+      "key_data": "#FFC0CB"
+    },
+    {
+      "value": "山地",
+      "key_type": "color",
+      "key_data": "#8B4513"
+    },
+    {
+      "value": "平原",
+      "key_type": "color",
+      "key_data": "#808080"
+    },
+    {
+      "value": "森林",
+      "key_type": "color",
+      "key_data": "#228B22"
+    },
+    {
+      "value": "农田",
+      "key_type": "color",
+      "key_data": "#FFD700"
+    },
+    {
+      "value": "工业区",
+      "key_type": "color",
+      "key_data": "#FF0000"
+    },
+    {
+      "value": "道路",
+      "key_type": "color",
+      "key_data": "#000000"
+    }
+  ]
+}

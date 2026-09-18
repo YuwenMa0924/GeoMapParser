@@ -1,0 +1,89 @@
+{
+  "title": "GEOLOGIC MAP OF\nTHE\nPLATO\nQUADRANGLE OF\nTHE\nMOON\nBy\nJohn W. M'Gonigle and David Schleicher\n1972",
+  "scale": "1:1 000000",
+  "scale_position": "bottom_left",
+  "bar_pixel_length": 2368,
+  "projection": "LAMBERT CONFORMAL CONIC PROJECTION",
+  "publication_agency": [
+    "USGS"
+  ],
+  "publication_date": "1972",
+  "data_source": "Lunar Orbiter IV and V",
+  "legend_data": [
+    {
+      "value": "Mare ridge",
+      "key_type": "icon",
+      "key_data": "pink_oval_with_black_diamond"
+    },
+    {
+      "value": "Chain crater material",
+      "key_type": "icon",
+      "key_data": "pink_blob_with_small_blob"
+    },
+    {
+      "value": "Rille (sr, wide sinuous rille)",
+      "key_type": "icon",
+      "key_data": "red_rectangle_with_black_dots"
+    },
+    {
+      "value": "Contact",
+      "key_type": "line",
+      "key_data": "dashed_line"
+    },
+    {
+      "value": "Concealed unit",
+      "key_type": "line",
+      "key_data": "dotted_line"
+    },
+    {
+      "value": "Fault",
+      "key_type": "line",
+      "key_data": "dashed_line_with_dots"
+    },
+    {
+      "value": "Very subdued crater remnant",
+      "key_type": "icon",
+      "key_data": "circle_with_question_mark"
+    },
+    {
+      "value": "Scarp",
+      "key_type": "line",
+      "key_data": "dashed_line_with_downward_arrows"
+    },
+    {
+      "value": "Lineament",
+      "key_type": "line",
+      "key_data": "short_horizontal_line"
+    },
+    {
+      "value": "Shallow depression",
+      "key_type": "icon",
+      "key_data": "circle_with_internal_pattern"
+    },
+    {
+      "value": "Lengths of Radius Vectors to control points",
+      "key_type": "icon",
+      "key_data": "black_triangle"
+    },
+    {
+      "value": "Depths of craters (rim to floor)",
+      "key_type": "color",
+      "key_data": "#000000"
+    },
+    {
+      "value": "Relative Elevations (referenced to surrounding terrain) with direction and extent of measured slope indicated",
+      "key_type": "color",
+      "key_data": "#000000"
+    },
+    {
+      "value": "Primary Control Positions",
+      "key_type": "icon",
+      "key_data": "circle_with_cross"
+    },
+    {
+      "value": "Supplementary Control Positions",
+      "key_type": "icon",
+      "key_data": "triangle_with_exclamation_mark"
+    }
+  ]
+}

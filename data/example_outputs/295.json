@@ -1,0 +1,85 @@
+{
+  "title": "TOPOGRAPHIC MAP OF THE GUINEVERE PLANITIA REGION OF VENUS V 10M 30/240 RTK 1998",
+  "scale": "1:10,000,000",
+  "scale_position": "bottom_center",
+  "bar_pixel_length": 2804,
+  "projection": "Mercator projection",
+  "publication_agency": [
+    "NASA",
+    "U.S. Geological Survey"
+  ],
+  "publication_date": "1998",
+  "data_source": "Magellan Synthetic Aperture Radar (SAR) and radar altimetry",
+  "legend_data": [
+    {
+      "value": "11 km",
+      "key_type": "color",
+      "key_data": "#ffffff"
+    },
+    {
+      "value": "10 km",
+      "key_type": "color",
+      "key_data": "#ffffcc"
+    },
+    {
+      "value": "9 km",
+      "key_type": "color",
+      "key_data": "#ffff99"
+    },
+    {
+      "value": "8 km",
+      "key_type": "color",
+      "key_data": "#ffff66"
+    },
+    {
+      "value": "7 km",
+      "key_type": "color",
+      "key_data": "#ffff33"
+    },
+    {
+      "value": "6 km",
+      "key_type": "color",
+      "key_data": "#ffff00"
+    },
+    {
+      "value": "5 km",
+      "key_type": "color",
+      "key_data": "#ffcc00"
+    },
+    {
+      "value": "4 km",
+      "key_type": "color",
+      "key_data": "#ff9900"
+    },
+    {
+      "value": "3 km",
+      "key_type": "color",
+      "key_data": "#ff6600"
+    },
+    {
+      "value": "2 km",
+      "key_type": "color",
+      "key_data": "#ff3300"
+    },
+    {
+      "value": "1 km",
+      "key_type": "color",
+      "key_data": "#cc0000"
+    },
+    {
+      "value": "0 km",
+      "key_type": "color",
+      "key_data": "#990000"
+    },
+    {
+      "value": "-1 km",
+      "key_type": "color",
+      "key_data": "#006600"
+    },
+    {
+      "value": "-2 km",
+      "key_type": "color",
+      "key_data": "#003300"
+    }
+  ]
+}

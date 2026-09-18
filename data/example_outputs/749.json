@@ -1,0 +1,55 @@
+{
+  "title": "WEBB\nUNAR TOPOGRAPHIC ORTHOPHOTOMAP",
+  "scale": "1:250,000",
+  "scale_position": "bottom_center",
+  "bar_pixel_length": 881,
+  "projection": "Transverse Mercator",
+  "publication_agency": [
+    "NASA",
+    "Lunar Topographic Orthophotomap"
+  ],
+  "publication_date": "1974",
+  "data_source": "PHOTOGRAPHY, APOLLO 15 (AUG 1971)",
+  "legend_data": [
+    {
+      "value": "Crater rim and interior elevations",
+      "key_type": "color",
+      "key_data": "#000000"
+    },
+    {
+      "value": "(8022)",
+      "key_type": "text",
+      "key_data": "text"
+    },
+    {
+      "value": "(7980)",
+      "key_type": "text",
+      "key_data": "text"
+    },
+    {
+      "value": "Spot elevation",
+      "key_type": "color",
+      "key_data": "#FF0000"
+    },
+    {
+      "value": "8477",
+      "key_type": "text",
+      "key_data": "text"
+    },
+    {
+      "value": "Slope ticks (downhill direction)",
+      "key_type": "icon",
+      "key_data": "black_arrow"
+    },
+    {
+      "value": "Index contour",
+      "key_type": "line",
+      "key_data": "solid_line"
+    },
+    {
+      "value": "Intermediate contour",
+      "key_type": "line",
+      "key_data": "dashed_line"
+    }
+  ]
+}

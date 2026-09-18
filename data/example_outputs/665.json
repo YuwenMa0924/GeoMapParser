@@ -1,0 +1,40 @@
+{
+  "title": "JUNAR JOPOGRAPHIC ORTHOPHOTOMA\nEDITION\n7\nSHEET\nLTO61C2\n(250)\nCAMERON",
+  "scale": "1:250,000",
+  "scale_position": "bottom_center",
+  "bar_pixel_length": 880,
+  "projection": "Transverse Mercator Projection",
+  "publication_agency": [
+    "NATIONAL AERONAUTICS AND SPACE ADMINISTRATION",
+    "DEFENSE MAPPING AGENCY TOPOGRAPHIC CENTER"
+  ],
+  "publication_date": "1974",
+  "data_source": "APOLLO 15 (AUG 71)",
+  "legend_data": [
+    {
+      "value": "Crater rim and interior elevations",
+      "key_type": "color",
+      "key_data": "#8022"
+    },
+    {
+      "value": "Spot elevation",
+      "key_type": "color",
+      "key_data": "#8477"
+    },
+    {
+      "value": "Slope ticks (downhill direction)",
+      "key_type": "icon",
+      "key_data": "black_oval"
+    },
+    {
+      "value": "Index contour",
+      "key_type": "line",
+      "key_data": "solid_red_line"
+    },
+    {
+      "value": "Intermediate contour",
+      "key_type": "line",
+      "key_data": "dashed_red_line"
+    }
+  ]
+}

@@ -1,0 +1,109 @@
+{
+  "title": "GEOLOGIC MAP OF THE ARISTOTELES QUADRANGLE OF THE OOW By Baerbel Koesters Lucchitta 1972",
+  "scale": "1:1 000000",
+  "scale_position": "bottom_left",
+  "bar_pixel_length": 2360,
+  "projection": "LAMBERT CONFORMAL PROJECTION",
+  "publication_agency": [
+    "USGS"
+  ],
+  "publication_date": "1972",
+  "data_source": "LUNAR ORBITER IV HIGH-RESOLUTION COVERAGE frames 165, 177, 191, and 192",
+  "legend_data": [
+    {
+      "value": "Materials of impact or metallic endem",
+      "key_type": "color",
+      "key_data": "#FFD700"
+    },
+    {
+      "value": "Organic materials",
+      "key_type": "color",
+      "key_data": "#8B4513"
+    },
+    {
+      "value": "Soy materials",
+      "key_type": "color",
+      "key_data": "#D2B48C"
+    },
+    {
+      "value": "Characteristics of major metals",
+      "key_type": "color",
+      "key_data": "#A52A2A"
+    },
+    {
+      "value": "Temperature variation",
+      "key_type": "icon",
+      "key_data": "black_triangle"
+    },
+    {
+      "value": "Characteristics",
+      "key_type": "icon",
+      "key_data": "blue_square"
+    },
+    {
+      "value": "Materials of disambiguation",
+      "key_type": "icon",
+      "key_data": "green_circle"
+    },
+    {
+      "value": "Satellite crater material",
+      "key_type": "icon",
+      "key_data": "red_rectangle"
+    },
+    {
+      "value": "Characteristics",
+      "key_type": "icon",
+      "key_data": "yellow_star"
+    },
+    {
+      "value": "Back",
+      "key_type": "icon",
+      "key_data": "blue_arrow"
+    },
+    {
+      "value": "Smooth hill material",
+      "key_type": "color",
+      "key_data": "#E6E6FA"
+    },
+    {
+      "value": "Main material",
+      "key_type": "color",
+      "key_data": "#F5F5DC"
+    },
+    {
+      "value": "Characteristics",
+      "key_type": "color",
+      "key_data": "#8FBC8F"
+    },
+    {
+      "value": "Chalk lithology",
+      "key_type": "color",
+      "key_data": "#D2B48C"
+    },
+    {
+      "value": "Limestone",
+      "key_type": "color",
+      "key_data": "#F5F5DC"
+    },
+    {
+      "value": "Characteristics",
+      "key_type": "color",
+      "key_data": "#8FBC8F"
+    },
+    {
+      "value": "Lengths of Radius Vectors to control points",
+      "key_type": "text",
+      "key_data": "1736.7"
+    },
+    {
+      "value": "Depths of craters (rim to floor)",
+      "key_type": "text",
+      "key_data": "(400)"
+    },
+    {
+      "value": "Relative elevations (referenced to surrounding terrain) with direction and extent of measured slope indicated",
+      "key_type": "text",
+      "key_data": "410"
+    }
+  ]
+}

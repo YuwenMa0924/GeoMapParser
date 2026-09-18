@@ -1,0 +1,14 @@
+{
+  "title": "AP SHOWING RELIEF AND SURFACE MARKINGS OF THE\nLUNAR\nPOLAR\nREGION\n1981",
+  "scale": "1:5,000,000",
+  "scale_position": "bottom_center",
+  "bar_pixel_length": 2284,
+  "projection": null,
+  "publication_agency": [
+    "USGS",
+    "NASA"
+  ],
+  "publication_date": "1981",
+  "data_source": "pictures taken primarily by the Lunar Orbiter IV spacecraft. Some data from Lunar Orbiter V, Apollo orbital flights, Mariner 10, and the USSR Zond missions are also used.",
+  "legend_data": []
+}

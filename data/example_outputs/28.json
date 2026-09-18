@@ -1,0 +1,291 @@
+{
+  "title": "GEOLOGIC MAP OF\nTHE\nSAPPHO\nPATERA\nQUADRANGLE\n(V-20),\nVENUS\nBy\nGeorge\nE.\nMcGill\n2000",
+  "scale": "1:5,000,000",
+  "scale_position": "bottom_center",
+  "bar_pixel_length": null,
+  "projection": "Mercator projection",
+  "publication_agency": [
+    "U.S. GEOLOGICAL SURVEY",
+    "NATIONAL AERONAUTICS AND SPACE ADMINISTRATION",
+    "U.S. DEPARTMENT OF THE INTERIOR"
+  ],
+  "publication_date": "2000",
+  "data_source": "The Magellan Mission",
+  "legend_data": [
+    {
+      "value": "Smooth platia material",
+      "key_type": "color",
+      "key_data": "#ffffff"
+    },
+    {
+      "value": "Hummocky material",
+      "key_type": "color",
+      "key_data": "#cccccc"
+    },
+    {
+      "value": "Low-relief shield-like material",
+      "key_type": "color",
+      "key_data": "#bbbbbb"
+    },
+    {
+      "value": "Ridges",
+      "key_type": "color",
+      "key_data": "#aaaaaa"
+    },
+    {
+      "value": "Anima Mors mottled material",
+      "key_type": "color",
+      "key_data": "#999999"
+    },
+    {
+      "value": "Anima Mors hummocky material",
+      "key_type": "color",
+      "key_data": "#888888"
+    },
+    {
+      "value": "Holidi Mors hummocky material",
+      "key_type": "color",
+      "key_data": "#777777"
+    },
+    {
+      "value": "Anima Mors flow material",
+      "key_type": "color",
+      "key_data": "#666666"
+    },
+    {
+      "value": "Imbrium mottled material",
+      "key_type": "color",
+      "key_data": "#555555"
+    },
+    {
+      "value": "Imbrium mosaic material",
+      "key_type": "color",
+      "key_data": "#444444"
+    },
+    {
+      "value": "Holidi Mors flow material",
+      "key_type": "color",
+      "key_data": "#333333"
+    },
+    {
+      "value": "Gala Crater flow material",
+      "key_type": "color",
+      "key_data": "#222222"
+    },
+    {
+      "value": "Gula Crater flow material",
+      "key_type": "color",
+      "key_data": "#111111"
+    },
+    {
+      "value": "Hummocky flow material",
+      "key_type": "color",
+      "key_data": "#000000"
+    },
+    {
+      "value": "Flow material of Coroa",
+      "key_type": "color",
+      "key_data": "#ffcc00"
+    },
+    {
+      "value": "Flow material of Belus Corona",
+      "key_type": "color",
+      "key_data": "#ff9900"
+    },
+    {
+      "value": "Flow material of Gala",
+      "key_type": "color",
+      "key_data": "#ff6600"
+    },
+    {
+      "value": "Flow material of Nehalennia",
+      "key_type": "color",
+      "key_data": "#ff3300"
+    },
+    {
+      "value": "Tessera material",
+      "key_type": "color",
+      "key_data": "#ff0000"
+    },
+    {
+      "value": "Corona flow material",
+      "key_type": "color",
+      "key_data": "#cc0000"
+    },
+    {
+      "value": "Impact crater materials",
+      "key_type": "color",
+      "key_data": "#990000"
+    },
+    {
+      "value": "Contact",
+      "key_type": "line",
+      "key_data": "dashed_line"
+    },
+    {
+      "value": "Graben",
+      "key_type": "line",
+      "key_data": "solid_line_with_dots"
+    },
+    {
+      "value": "Major rift fault",
+      "key_type": "line",
+      "key_data": "solid_line_with_dots_and_bars"
+    },
+    {
+      "value": "Radar-bright lineament",
+      "key_type": "line",
+      "key_data": "dotted_line"
+    },
+    {
+      "value": "Fabric of short radar-bright lineaments",
+      "key_type": "pattern",
+      "key_data": "parallel_lines"
+    },
+    {
+      "value": "Ridge",
+      "key_type": "icon",
+      "key_data": "diamond_shape"
+    },
+    {
+      "value": "Wrinkle ridge",
+      "key_type": "icon",
+      "key_data": "diamond_shape_with_crosses"
+    },
+    {
+      "value": "Lava flow direction",
+      "key_type": "line",
+      "key_data": "solid_line_with_arrow"
+    },
+    {
+      "value": "Channel",
+      "key_type": "line",
+      "key_data": "wavy_line"
+    },
+    {
+      "value": "Dome or shield",
+      "key_type": "icon",
+      "key_data": "plus_sign"
+    },
+    {
+      "value": "D>20 km",
+      "key_type": "icon",
+      "key_data": "sun_like_symbol"
+    },
+    {
+      "value": "Endogenic crater—Interpreted as caldera",
+      "key_type": "icon",
+      "key_data": "circle"
+    },
+    {
+      "value": "5<D<10 km",
+      "key_type": "icon",
+      "key_data": "small_circle"
+    },
+    {
+      "value": "10<D<20 km",
+      "key_type": "icon",
+      "key_data": "medium_circle"
+    },
+    {
+      "value": "D>20 km",
+      "key_type": "icon",
+      "key_data": "large_circle"
+    },
+    {
+      "value": "Airburst spot",
+      "key_type": "pattern",
+      "key_data": "dots"
+    },
+    {
+      "value": "Crater rim—Showing crest",
+      "key_type": "icon",
+      "key_data": "circle_with_top_line"
+    },
+    {
+      "value": "D<20 km",
+      "key_type": "icon",
+      "key_data": "small_circle_with_top_line"
+    },
+    {
+      "value": "D>20 km",
+      "key_type": "icon",
+      "key_data": "large_circle_with_top_line"
+    },
+    {
+      "value": "6053.5",
+      "key_type": "color",
+      "key_data": "#ffffff"
+    },
+    {
+      "value": "6053.0",
+      "key_type": "color",
+      "key_data": "#ffcccc"
+    },
+    {
+      "value": "6052.5",
+      "key_type": "color",
+      "key_data": "#ff9999"
+    },
+    {
+      "value": "6052.0",
+      "key_type": "color",
+      "key_data": "#ff6666"
+    },
+    {
+      "value": "6051.5",
+      "key_type": "color",
+      "key_data": "#ff3333"
+    },
+    {
+      "value": "6051.0",
+      "key_type": "color",
+      "key_data": "#ff0000"
+    },
+    {
+      "value": "6050.5",
+      "key_type": "color",
+      "key_data": "#cc0000"
+    },
+    {
+      "value": "Guor and Virtus Lineae rifts",
+      "key_type": "line",
+      "key_data": "solid_line"
+    },
+    {
+      "value": "Badb Linea",
+      "key_type": "line",
+      "key_data": "dashed_line"
+    },
+    {
+      "value": "Coronae and corona-like structures: a = unnamed corona a, b = unnamed corona b, t = chain of corona-like rimmed pits",
+      "key_type": "icon",
+      "key_data": "circular_symbols"
+    },
+    {
+      "value": "Wrinkle ridges of dominant, and oldest, set; schematic",
+      "key_type": "icon",
+      "key_data": "tilde_symbols"
+    },
+    {
+      "value": "Wrinkle ridges concentric to Irnini and Anala Montes; schematic",
+      "key_type": "icon",
+      "key_data": "cross_symbols"
+    },
+    {
+      "value": "Wrinkle ridges of other sets; schematic",
+      "key_type": "icon",
+      "key_data": "star_symbols"
+    },
+    {
+      "value": "Contour lines, 0 and 1.5 km (0 = 6050 km radius)",
+      "key_type": "line",
+      "key_data": "solid_line_with_length_label"
+    },
+    {
+      "value": "Major volcanic features: Irnini Mons, Gula Mons, Kali Mons, Sappho Pat Anala Mons",
+      "key_type": "text",
+      "key_data": "none"
+    }
+  ]
+}

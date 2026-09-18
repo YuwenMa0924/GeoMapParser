@@ -1,0 +1,61 @@
+{
+  "title": "ARISTARCHUS\nLM 39\nARISTARCHUS\nLM 39\nSCALE 1:1,000,000\n1ST EDITION NOVEMBER 1979\nlithographed\nby DMAAC 7-80\nLUNAR\nMAI\nSCALE 1:1,000,000\nARISTARCHUS\nLM 39\nSTOCK NO. LNLMX039",
+  "scale": "1:1,000,000",
+  "scale_position": "bottom_center",
+  "bar_pixel_length": 2132,
+  "projection": "LAMBERT CONFORMAL CONIC",
+  "publication_agency": [
+    "DEFENSE MAPPING AGENCY",
+    "NATIONAL AERONAUTICS AND SPACE ADMINISTRATION",
+    "U.S. GEOLOGICAL SURVEY"
+  ],
+  "publication_date": "1979",
+  "data_source": "DERIVED FROM APOLLO 15 OBLIQUE METRIC PHOTOGRAPHY; DERIVED FROM APOLLO 17 OBLIQUE METRIC PHOTOGRAPHY",
+  "legend_data": [
+    {
+      "value": "INDEX CONTOUR",
+      "key_type": "line",
+      "key_data": "solid_line"
+    },
+    {
+      "value": "INTERMEDIATE CONTOUR",
+      "key_type": "line",
+      "key_data": "dotted_line"
+    },
+    {
+      "value": "APPROXIMATE CONTOUR",
+      "key_type": "line",
+      "key_data": "dashed_line"
+    },
+    {
+      "value": "SLOPE TICKS (DOWN HILL DIRECTION)",
+      "key_type": "icon",
+      "key_data": "short_line_perpendicular_to_contour"
+    },
+    {
+      "value": "SPOT ELEVATIONS",
+      "key_type": "text",
+      "key_data": "numeric_value"
+    },
+    {
+      "value": "CRATER RIM AND INTERIOR ELEVATIONS",
+      "key_type": "text",
+      "key_data": "numeric_value"
+    },
+    {
+      "value": "RELATIVE HEIGHTS (REFERRED TO SURROUNDING TERRAIN) WITH DIRECTION AND EXTENT OF SLOPE MEASURED",
+      "key_type": "text",
+      "key_data": "numeric_value"
+    },
+    {
+      "value": "DEPTH OF CRATER (RIM TO FLOOR)",
+      "key_type": "text",
+      "key_data": "numeric_value"
+    },
+    {
+      "value": "ELEVATIONS DERIVED FROM THE DMAAC 1977 SELENODENTIC CONTROL SYSTEM ARE GENERALLY ASSOCIATED WITH RELATIVELY SMALL CRATERS, AND THEY FALL IN THE PLANE OF THE CRATER RIMS",
+      "key_type": "text",
+      "key_data": "description"
+    }
+  ]
+}

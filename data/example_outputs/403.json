@@ -1,0 +1,40 @@
+{
+  "title": "APOLLO LUNAR PHOTOGRAPHY INDEX SHEET 4 OF 4",
+  "scale": "1:7,500,000",
+  "scale_position": null,
+  "bar_pixel_length": null,
+  "projection": "MERCATOR PROJECTION",
+  "publication_agency": [
+    "UNITED STATES AIR FORCE",
+    "NATIONAL AERONAUTICS AND SPACE ADMINISTRATION"
+  ],
+  "publication_date": "1970",
+  "data_source": null,
+  "legend_data": [
+    {
+      "value": "Magazine A (CSM) Color",
+      "key_type": "color",
+      "key_data": "#FF0000"
+    },
+    {
+      "value": "Magazine C (CSM) Color",
+      "key_type": "color",
+      "key_data": "#008000"
+    },
+    {
+      "value": "Magazine E (CSM) Color",
+      "key_type": "color",
+      "key_data": "#0000FF"
+    },
+    {
+      "value": "Magazine I (CSM) B&W",
+      "key_type": "color",
+      "key_data": "#FF00FF"
+    },
+    {
+      "value": "Magazine J (LM) Color",
+      "key_type": "color",
+      "key_data": "#FFA500"
+    }
+  ]
+}

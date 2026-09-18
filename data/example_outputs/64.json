@@ -1,0 +1,260 @@
+{
+  "title": "eologic Map of the Meskhent Tessera Quadrangle (V3l. Ven By Mikhail A. Ivanov1, 2 and James W. Head, III2 2008",
+  "scale": "1:4 711 886 (1 mm = 4.712 km) AT 25° LATITUDE\n1:5 000 000 AT 34° and 73° LATITUDES",
+  "scale_position": "middle_center",
+  "bar_pixel_length": 2753,
+  "projection": "LAMBERT PROJECTION",
+  "publication_agency": [
+    "USGS",
+    "National Aeronautics and Space Administration"
+  ],
+  "publication_date": "2008",
+  "data_source": "Magellan topography data",
+  "legend_data": [
+    {
+      "value": "Crater materials, undivided",
+      "key_type": "color",
+      "key_data": "#FFFF00"
+    },
+    {
+      "value": "Crater outflow material",
+      "key_type": "color",
+      "key_data": "#FFFF99"
+    },
+    {
+      "value": "Lobate plains material",
+      "key_type": "color",
+      "key_data": "#90EE90"
+    },
+    {
+      "value": "Regional plains material (upper unit)",
+      "key_type": "color",
+      "key_data": "#6A5ACD"
+    },
+    {
+      "value": "Steep-sided dome (not to scale)",
+      "key_type": "icon",
+      "key_data": "black_cross_with_circle"
+    },
+    {
+      "value": "Wrinkle ridge",
+      "key_type": "line",
+      "key_data": "dashed_line_with_diamond"
+    },
+    {
+      "value": "Caldera-like depression",
+      "key_type": "icon",
+      "key_data": "pink_curved_arrow"
+    },
+    {
+      "value": "Corona",
+      "key_type": "icon",
+      "key_data": "dashed_circle"
+    },
+    {
+      "value": "Groove belt",
+      "key_type": "color",
+      "key_data": "#D3D3F0"
+    },
+    {
+      "value": "Ridge belt",
+      "key_type": "color",
+      "key_data": "#87CEEB"
+    },
+    {
+      "value": "Tessera",
+      "key_type": "color",
+      "key_data": "#8B4513"
+    },
+    {
+      "value": "Lineament in groove belt",
+      "key_type": "icon",
+      "key_data": "black_dot"
+    },
+    {
+      "value": "Ridge",
+      "key_type": "icon",
+      "key_data": "black_diamond"
+    },
+    {
+      "value": "Groove and graben",
+      "key_type": "line",
+      "key_data": "dashed_line_with_crosses"
+    },
+    {
+      "value": "Groove",
+      "key_type": "line",
+      "key_data": "dashed_line"
+    },
+    {
+      "value": "Corona",
+      "key_type": "icon",
+      "key_data": "pink_circular_dotted_line"
+    },
+    {
+      "value": "Tessera structures",
+      "key_type": "icon",
+      "key_data": "black_lines_forming_a_grid"
+    },
+    {
+      "value": "Crater Material",
+      "key_type": "pattern",
+      "key_data": "cl"
+    },
+    {
+      "value": "Undivided crater material",
+      "key_type": "pattern",
+      "key_data": "c"
+    },
+    {
+      "value": "Plains Material",
+      "key_type": "pattern",
+      "key_data": "pl"
+    },
+    {
+      "value": "Lobate plains material",
+      "key_type": "pattern",
+      "key_data": "ps"
+    },
+    {
+      "value": "Smooth plains material",
+      "key_type": "pattern",
+      "key_data": "pc"
+    },
+    {
+      "value": "Shield cluster material",
+      "key_type": "pattern",
+      "key_data": "psh"
+    },
+    {
+      "value": "Regional plains material",
+      "key_type": "pattern",
+      "key_data": "pr"
+    },
+    {
+      "value": "Upper unit",
+      "key_type": "pattern",
+      "key_data": "pu"
+    },
+    {
+      "value": "Lower unit",
+      "key_type": "pattern",
+      "key_data": "plu"
+    },
+    {
+      "value": "Shield plains material",
+      "key_type": "pattern",
+      "key_data": "psh"
+    },
+    {
+      "value": "Ridged plain material",
+      "key_type": "pattern",
+      "key_data": "pr"
+    },
+    {
+      "value": "Densely lineated plains material",
+      "key_type": "pattern",
+      "key_data": "sd"
+    },
+    {
+      "value": "Tessera material",
+      "key_type": "pattern",
+      "key_data": "t"
+    },
+    {
+      "value": "Groove belt material",
+      "key_type": "pattern",
+      "key_data": "gb"
+    },
+    {
+      "value": "Contact",
+      "key_type": "icon",
+      "key_data": "diamond"
+    },
+    {
+      "value": "Wrinkle ridge",
+      "key_type": "line",
+      "key_data": "dashed_line"
+    },
+    {
+      "value": "Ridge",
+      "key_type": "line",
+      "key_data": "solid_line"
+    },
+    {
+      "value": "Subdued groove",
+      "key_type": "line",
+      "key_data": "dash_dot_line"
+    },
+    {
+      "value": "Sharp groove and graben",
+      "key_type": "line",
+      "key_data": "double_solid_line"
+    },
+    {
+      "value": "Lineament in groove belt",
+      "key_type": "line",
+      "key_data": "short_dashed_line"
+    },
+    {
+      "value": "Lineaments in densely lineated material",
+      "key_type": "icon",
+      "key_data": "plus_sign"
+    },
+    {
+      "value": "Flow front",
+      "key_type": "icon",
+      "key_data": "arrow"
+    },
+    {
+      "value": "Small shield",
+      "key_type": "icon",
+      "key_data": "circle"
+    },
+    {
+      "value": "Corona",
+      "key_type": "icon",
+      "key_data": "star"
+    },
+    {
+      "value": "Steep-sided dome",
+      "key_type": "icon",
+      "key_data": "triangle"
+    },
+    {
+      "value": "Depression",
+      "key_type": "icon",
+      "key_data": "oval"
+    },
+    {
+      "value": "Structures in tessera",
+      "key_type": "icon",
+      "key_data": "cross"
+    },
+    {
+      "value": "Rim of impact crater (>10 km diameter)",
+      "key_type": "icon",
+      "key_data": "circle_with_border"
+    },
+    {
+      "value": "Hachures point to crater",
+      "key_type": "icon",
+      "key_data": "hatch_marks"
+    },
+    {
+      "value": "Inner ring of Wharton impact crater",
+      "key_type": "icon",
+      "key_data": "concentric_circles"
+    },
+    {
+      "value": "Central peak of impact crater",
+      "key_type": "icon",
+      "key_data": "dot"
+    },
+    {
+      "value": "Rim and center of impact crater (<10 km diameter)",
+      "key_type": "icon",
+      "key_data": "small_dot"
+    }
+  ]
+}

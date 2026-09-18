@@ -1,0 +1,200 @@
+{
+  "title": "GEOLOGIC MAP OF THE PANDROSOS DORS\nQUADRANGLE (V-5), VENUS\nBy\nElizabeth Rosenberg and George E. McGill\n2001",
+  "scale": "1:5,000,000",
+  "scale_position": "middle_left",
+  "bar_pixel_length": null,
+  "projection": "LAMBERT PROJECTION",
+  "publication_agency": [
+    "U.S. Geological Survey",
+    "National Aeronautics and Space Administration"
+  ],
+  "publication_date": "2001",
+  "data_source": "Magellan radar imagery",
+  "legend_data": [
+    {
+      "value": "Smooth local plains material",
+      "key_type": "color",
+      "key_data": "#FFFFFF"
+    },
+    {
+      "value": "Material with small blocky units of moderate to dark material",
+      "key_type": "color",
+      "key_data": "#CCCCCC"
+    },
+    {
+      "value": "Material with large blocky units of moderate to dark material",
+      "key_type": "color",
+      "key_data": "#999999"
+    },
+    {
+      "value": "Material with fine linear features",
+      "key_type": "line",
+      "key_data": "dashed_line"
+    },
+    {
+      "value": "Material with fine linear features and small shield volcanoes",
+      "key_type": "line",
+      "key_data": "dotted_line"
+    },
+    {
+      "value": "Radiar-bright regional material",
+      "key_type": "color",
+      "key_data": "#FFFF00"
+    },
+    {
+      "value": "Intermediate regional material",
+      "key_type": "color",
+      "key_data": "#FFA500"
+    },
+    {
+      "value": "Radiar-dark regional material",
+      "key_type": "color",
+      "key_data": "#808080"
+    },
+    {
+      "value": "Shump material",
+      "key_type": "color",
+      "key_data": "#FFD700"
+    },
+    {
+      "value": "Digital flow material",
+      "key_type": "color",
+      "key_data": "#FF69B4"
+    },
+    {
+      "value": "Lobate flow material",
+      "key_type": "color",
+      "key_data": "#FF0000"
+    },
+    {
+      "value": "Corona materials",
+      "key_type": "color",
+      "key_data": "#FFC0CB"
+    },
+    {
+      "value": "Corona material A",
+      "key_type": "color",
+      "key_data": "#FFA07A"
+    },
+    {
+      "value": "Corona material B",
+      "key_type": "color",
+      "key_data": "#FF6347"
+    },
+    {
+      "value": "Corona material C",
+      "key_type": "color",
+      "key_data": "#FF4500"
+    },
+    {
+      "value": "Materials of linear belts",
+      "key_type": "color",
+      "key_data": "#E9967A"
+    },
+    {
+      "value": "Tessera materials",
+      "key_type": "color",
+      "key_data": "#D2691E"
+    },
+    {
+      "value": "Impact crater materials",
+      "key_type": "color",
+      "key_data": "#F5DEB3"
+    },
+    {
+      "value": "Crater material, uninfilled",
+      "key_type": "color",
+      "key_data": "#F5DEB3"
+    },
+    {
+      "value": "Crater material, infilled",
+      "key_type": "color",
+      "key_data": "#FFF0F5"
+    },
+    {
+      "value": "Impact crater rim",
+      "key_type": "line",
+      "key_data": "solid_line"
+    },
+    {
+      "value": "Depression",
+      "key_type": "line",
+      "key_data": "dashed_line"
+    },
+    {
+      "value": "Platoflowed volcanic dome",
+      "key_type": "line",
+      "key_data": "dotted_line"
+    },
+    {
+      "value": "Shield volcano with flow",
+      "key_type": "line",
+      "key_data": "dash_dot_line"
+    },
+    {
+      "value": "Flow direction",
+      "key_type": "icon",
+      "key_data": "black_arrow"
+    },
+    {
+      "value": "Shield field",
+      "key_type": "icon",
+      "key_data": "black_circle"
+    },
+    {
+      "value": "Wrinkle ridge",
+      "key_type": "line",
+      "key_data": "double_line"
+    },
+    {
+      "value": "Luminance",
+      "key_type": "color",
+      "key_data": "#FFFFFF"
+    },
+    {
+      "value": "Graben",
+      "key_type": "line",
+      "key_data": "cross_hatch"
+    },
+    {
+      "value": "Channel",
+      "key_type": "line",
+      "key_data": "curved_line"
+    },
+    {
+      "value": "Spillover",
+      "key_type": "line",
+      "key_data": "zigzag_line"
+    },
+    {
+      "value": "6048 nm",
+      "key_type": "color",
+      "key_data": "#FF007F"
+    },
+    {
+      "value": "6049 nm",
+      "key_type": "color",
+      "key_data": "#4B0082"
+    },
+    {
+      "value": "6050 nm",
+      "key_type": "color",
+      "key_data": "#00FF00"
+    },
+    {
+      "value": "6051 nm",
+      "key_type": "color",
+      "key_data": "#FFFF00"
+    },
+    {
+      "value": "6052 nm",
+      "key_type": "color",
+      "key_data": "#FF0000"
+    },
+    {
+      "value": "6053 nm",
+      "key_type": "color",
+      "key_data": "#FFFFFF"
+    }
+  ]
+}

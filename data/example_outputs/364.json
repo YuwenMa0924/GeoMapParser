@@ -1,0 +1,41 @@
+{
+  "title": "MASKELYNE AIC 61 D Mercator Projection Scale 1:500,000 at 11°00'45\" 1 ST EDITION MAY 1966 MASKELYNE AIC 61 D SCALE 1:500,000 1 ST EDITION MAY 1966 BASE 100 BASE INFORMATION MAY 1966",
+  "scale": "1:500,000",
+  "scale_position": "bottom_center",
+  "bar_pixel_length": 7469,
+  "projection": "Mercator",
+  "publication_agency": [
+    "NASA",
+    "AERONAUTICAL CHART AND INFORMATION CENTER",
+    "UNITED STATES AIR FORCE"
+  ],
+  "publication_date": "1966",
+  "data_source": "Manned Spacecraft Center, NASA",
+  "legend_data": [
+    {
+      "value": "Lengths of Radius Vectors to control points",
+      "key_type": "icon",
+      "key_data": "circle_plus, triangle_up"
+    },
+    {
+      "value": "Depth of craters (rim to floor)",
+      "key_type": "text",
+      "key_data": "400"
+    },
+    {
+      "value": "Relative Elevations (referenced to surrounding terrain) with direction and extent of measured slope indicated",
+      "key_type": "text",
+      "key_data": "300"
+    },
+    {
+      "value": "Primary Control Positions",
+      "key_type": "icon",
+      "key_data": "black_dot"
+    },
+    {
+      "value": "Supplementary Control Positions",
+      "key_type": "icon",
+      "key_data": "circle_with_triangle"
+    }
+  ]
+}

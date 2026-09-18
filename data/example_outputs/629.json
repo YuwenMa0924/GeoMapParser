@@ -1,0 +1,45 @@
+{
+  "title": "EDITION1\nSHEET\nLTO42B3\n(250)\nLUNAR TOPOGRAPHIC ORTHOPHOTOMAF\nVERY",
+  "scale": "1:250,000",
+  "scale_position": "bottom_center",
+  "bar_pixel_length": 879,
+  "projection": "Transverse Mercator projection",
+  "publication_agency": [
+    "NATIONAL AERONAUTICS AND SPACE ADMINISTRATION",
+    "DEFENSE MAPPING AC TOPOGRAPHIC CENTER"
+  ],
+  "publication_date": "1974",
+  "data_source": "APOLLO 15 (AUG 71)",
+  "legend_data": [
+    {
+      "value": "Spot elevation",
+      "key_type": "color",
+      "key_data": "#FF0000"
+    },
+    {
+      "value": "Slope ticks (downhill direction)",
+      "key_type": "icon",
+      "key_data": "oval"
+    },
+    {
+      "value": "Index contour",
+      "key_type": "line",
+      "key_data": "solid_line"
+    },
+    {
+      "value": "Intermediate contour",
+      "key_type": "line",
+      "key_data": "solid_line"
+    },
+    {
+      "value": "Supplementary contour",
+      "key_type": "line",
+      "key_data": "dashed_line"
+    },
+    {
+      "value": "Escarpment, abrupt slope; relative height",
+      "key_type": "pattern",
+      "key_data": "hatched_line"
+    }
+  ]
+}

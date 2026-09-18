@@ -1,0 +1,255 @@
+{
+  "title": "eologic Map the Lakshmi PI Quadrangle (V-7), Ver of anum By Mikhail A. Ivanov1, 2 and James W. Head, I1I2 2010",
+  "scale": "1:5,000,000",
+  "scale_position": "middle_center",
+  "bar_pixel_length": null,
+  "projection": "Lambert conformal projection",
+  "publication_agency": [
+    "USGS",
+    "NASA"
+  ],
+  "publication_date": "2010",
+  "data_source": "Magellan data",
+  "legend_data": [
+    {
+      "value": "Undivided crater material",
+      "key_type": "color",
+      "key_data": "#FFFF00"
+    },
+    {
+      "value": "Crater flow material",
+      "key_type": "color",
+      "key_data": "#FFD700"
+    },
+    {
+      "value": "Lobate plains material",
+      "key_type": "color",
+      "key_data": "#FFA500"
+    },
+    {
+      "value": "Smooth plains material",
+      "key_type": "color",
+      "key_data": "#E9967A"
+    },
+    {
+      "value": "Regional plains material",
+      "key_type": "color",
+      "key_data": "#87CEEB"
+    },
+    {
+      "value": "Upper unit",
+      "key_type": "color",
+      "key_data": "#B0C4DE"
+    },
+    {
+      "value": "Lower unit",
+      "key_type": "color",
+      "key_data": "#90EE90"
+    },
+    {
+      "value": "Pitted and grooved plains material",
+      "key_type": "color",
+      "key_data": "#32CD32"
+    },
+    {
+      "value": "Shield plains material",
+      "key_type": "color",
+      "key_data": "#4682B4"
+    },
+    {
+      "value": "Ridged plains material",
+      "key_type": "color",
+      "key_data": "#8B4513"
+    },
+    {
+      "value": "Pell",
+      "key_type": "color",
+      "key_data": "#8B4513"
+    },
+    {
+      "value": "Tessera Material",
+      "key_type": "color",
+      "key_data": "#A0522D"
+    },
+    {
+      "value": "Groove belt material",
+      "key_type": "color",
+      "key_data": "#8B0000"
+    },
+    {
+      "value": "Mountain belt material",
+      "key_type": "color",
+      "key_data": "#CD853F"
+    },
+    {
+      "value": "Contact",
+      "key_type": "line",
+      "key_data": "solid_line"
+    },
+    {
+      "value": "Ridge",
+      "key_type": "icon",
+      "key_data": "black_triangle"
+    },
+    {
+      "value": "Wrinkle ridge",
+      "key_type": "icon",
+      "key_data": "black_diamond"
+    },
+    {
+      "value": "Sharp groove",
+      "key_type": "icon",
+      "key_data": "black_plus"
+    },
+    {
+      "value": "Flow front",
+      "key_type": "icon",
+      "key_data": "black_arrow"
+    },
+    {
+      "value": "Channel",
+      "key_type": "icon",
+      "key_data": "black_wave"
+    },
+    {
+      "value": "Groove (in groove belts)",
+      "key_type": "icon",
+      "key_data": "black_spiral"
+    },
+    {
+      "value": "Steep-sided dome",
+      "key_type": "icon",
+      "key_data": "black_cone"
+    },
+    {
+      "value": "Depression",
+      "key_type": "icon",
+      "key_data": "black_circle_with_dot"
+    },
+    {
+      "value": "Corona",
+      "key_type": "icon",
+      "key_data": "black_oval"
+    },
+    {
+      "value": "Structures in tessera",
+      "key_type": "pattern",
+      "key_data": "crosshatch"
+    },
+    {
+      "value": "Rim of impact crater (> 10 km diameter)",
+      "key_type": "icon",
+      "key_data": "black_star"
+    },
+    {
+      "value": "Central peak of impact crater",
+      "key_type": "icon",
+      "key_data": "black_square"
+    },
+    {
+      "value": "Rim and central peak of impact crater (< 10 km diameter)",
+      "key_type": "icon",
+      "key_data": "black_circle"
+    },
+    {
+      "value": "Dark parabola",
+      "key_type": "pattern",
+      "key_data": "dot_pattern"
+    },
+    {
+      "value": "Mountain belt",
+      "key_type": "color",
+      "key_data": "#FFA07A"
+    },
+    {
+      "value": "Groove belt",
+      "key_type": "color",
+      "key_data": "#FFB6C1"
+    },
+    {
+      "value": "Tessera",
+      "key_type": "color",
+      "key_data": "#8B4513"
+    },
+    {
+      "value": "Crater",
+      "key_type": "icon",
+      "key_data": "yellow_terrain"
+    },
+    {
+      "value": "Splotch",
+      "key_type": "icon",
+      "key_data": "gray_circle"
+    },
+    {
+      "value": "Corona",
+      "key_type": "pattern",
+      "key_data": "dashed_circle"
+    },
+    {
+      "value": "Tessera structures",
+      "key_type": "line",
+      "key_data": "crossed_lines"
+    },
+    {
+      "value": "-1",
+      "key_type": "color",
+      "key_data": "#00008B"
+    },
+    {
+      "value": "1",
+      "key_type": "color",
+      "key_data": "#00BFFF"
+    },
+    {
+      "value": "3",
+      "key_type": "color",
+      "key_data": "#00FF00"
+    },
+    {
+      "value": "5",
+      "key_type": "color",
+      "key_data": "#FFFF00"
+    },
+    {
+      "value": "7",
+      "key_type": "color",
+      "key_data": "#FFA500"
+    },
+    {
+      "value": "9 KILOMETERS",
+      "key_type": "color",
+      "key_data": "#FF0000"
+    },
+    {
+      "value": "-1.5",
+      "key_type": "color",
+      "key_data": "#00008B"
+    },
+    {
+      "value": "0.5",
+      "key_type": "color",
+      "key_data": "#00BFFF"
+    },
+    {
+      "value": "2.5",
+      "key_type": "color",
+      "key_data": "#00FF00"
+    },
+    {
+      "value": "4.5",
+      "key_type": "color",
+      "key_data": "#FFFF00"
+    },
+    {
+      "value": "6.5",
+      "key_type": "color",
+      "key_data": "#FFA500"
+    },
+    {
+      "value": "8.5 K",
+      "key_type": "color",
+      "key_data": "#FF0000"
+    }
+  ]
+}
