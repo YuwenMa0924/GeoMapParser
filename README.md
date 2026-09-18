@@ -126,7 +126,7 @@ code, as described in the paper.
 
 ## License and citation
 
-- *License:* to be added by the authors before the public release.
+- *License:* MIT License. See the LICENSE file for details.
 - *Citation:* if you use this code, please cite the corresponding manuscript
   (full citation to be added upon publication).
 
