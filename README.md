@@ -126,8 +126,7 @@ code, as described in the paper.
 
 ## License and citation
 
-- *License:* to be added by the authors before the public release (an
-  open-source license is recommended by the journal).
+- *License:* to be added by the authors before the public release.
 - *Citation:* if you use this code, please cite the corresponding manuscript
   (full citation to be added upon publication).
 
