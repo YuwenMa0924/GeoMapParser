@@ -1,0 +1,41 @@
+# GeoMapParser - Python dependencies
+# Tested with Python 3.10 in a CPU-only environment (see the paper's
+# "Computer Code Availability" section).
+# Install with:  pip install -r requirements.txt
+
+# Core scientific stack
+numpy
+pandas
+openpyxl
+scipy
+scikit-learn
+matplotlib
+seaborn
+networkx
+tqdm
+Pillow
+opencv-python
+wordfreq
+
+# Object detection (Stage I: Spatial Anchoring) - tested with Ultralytics YOLOv8 v8.4.8
+torch
+ultralytics
+
+# OCR engines (Stage II: text channel) - PaddleOCR is the default engine
+paddleocr
+
+# Text embeddings (used by the evaluation/analysis scripts)
+sentence-transformers
+
+# LLM / MLLM APIs (Stages II-III: Qwen models are accessed via DashScope)
+dashscope
+
+# Normalization / fuzzy matching (used by the preprocessing and evaluation scripts)
+rapidfuzz
+
+# Optional - comparison experiments (Section 3.2 of the paper)
+pyyaml            # RT-DETR inference-time measurement
+python-Levenshtein  # legend ground-truth evaluation (MLLM comparison)
+easyocr           # OCR comparison baseline
+transformers      # TrOCR / InternVL2 comparison baselines
+openai            # GPT-4o legend comparison baseline
